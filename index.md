@@ -1,5 +1,5 @@
-# Dependable, Efficient, and Intelligent Computing Lab
-## [Home](./) [People](./people) [Research](./research) [About](./about) [Publication](./publication)
+## Dependable, Efficient, and Intelligent Computing Lab
+## [Home](./) [People](./people) [Research](./research) [Publication](./publication) [About](./about) 
 
 # News
 * [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received Best Paper Award!
@@ -23,5 +23,7 @@
   
 ## Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Department of Electrical and Computer Engineering, Villanova University
+
 800 E. Lancaster Ave., Villanova, 19085
+
 Email: xun.jiao@villanova.edu

@@ -1,5 +1,5 @@
-# Dependable, Efficient, and Intelligent Computing Lab
-## [Home](./) [People](./people) [Research](./research) [About](./about) [Publication](./publication)
+## Dependable, Efficient, and Intelligent Computing Lab
+## [Home](./) [People](./people) [Research](./research) [Publication](./publication) [About](./about) 
 
 ## Approximate Computing
 Approximate computing is a computation technique which returns a possibly inaccurate result rather than a guaranteed accurate result. It can be used for applications such as multimedia processing, machine learning, signal processing, and scientific computing where an approximate result is sufficient for its purpose. For example, an image processing application may still deliver an acceptable output image quality even if there are a few lost frames. Approximate computing takes advantage of the error tolerance of such applications to improve performance and efficiency that are impossible under fully precise execution. The research of approximate computing has two main objectives: (1) how to lower the requirements of computing resources to maximize the gains in performance and efficiency; (2) how to control the impact of approximation-induced errors to guarantee the application quality. To this end, my research has adopted a cross-layer approach that spans the entire computing stack from the digital circuit, computer architecture to software algorithms to provide a holistic design solution for approximate computing to achieve the two objectives. 
