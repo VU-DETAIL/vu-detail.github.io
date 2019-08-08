@@ -1,5 +1,5 @@
 # Dependable, Efficient, and Intelligent Computing Lab
-## [People](./people)  [Research](./research)  [About](./about) [Publication](./publication)
+## [People](./people)   [Research](./research)    [About](./about)   [Publication](./publication)
 
 # News
 * [08/01/2019] Xun Jiao has joined ECE department of Villanova University as tenure-track assistant professor this fall. I am looking for self-motivated Ph.D. students to join my group working on energy-efficient machine learning accelerator. 
