@@ -1,5 +1,6 @@
-# Welcome to Dependable, Efficient, and Intelligent Computing Lab (DETAIL)!
-# [People](./people) # [Research](./research) # [About](./about)
+# Dependable, Efficient, and Intelligent Computing Lab
+## [People](./people)  [Research](./research)  [About](./about) [Publication](./publication)
+
 # News
 * [08/01/2019] Xun Jiao has joined ECE department of Villanova University as tenure-track assistant professor this fall. I am looking for self-motivated Ph.D. students to join my group working on energy-efficient machine learning accelerator. 
 * [10/18/2019] Xun Jiao has co-organized a special session on dependable cyber-physical system in IEEE International Conference on Cyber Physical and Social Computing (CPSCOM-2019). Please consider submit!
@@ -19,3 +20,8 @@
 * [06/08/2019] Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship) joins DETAIL to conduct research on approximate computing this summer. Welcome, Ray!
 * [06/14/2019] Paper on Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing is accepted to ESEC/FSE 2019.
 * [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received Best Paper Award!
+  
+## Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
+Department of Electrical and Computer Engineering, Villanova University
+800 E. Lancaster Ave., Villanova, 19085
+Email: xun.jiao@villanova.edu
