@@ -1,5 +1,5 @@
 # Dependable, Efficient, and Intelligent Computing Lab
-## [People](./people)  [Research](./research)  [About](./about) [Publication](./publication)
+## [Home](./) [People](./people) [Research](./research) [About](./about) [Publication](./publication)
 
 ## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)

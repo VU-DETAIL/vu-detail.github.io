@@ -1,5 +1,5 @@
 # Dependable, Efficient, and Intelligent Computing Lab
-## [People](./people)  [Research](./research)  [About](./about) [Publication](./publication)
+## [Home](./) [People](./people) [Research](./research) [About](./about) [Publication](./publication)
 
 # Dongning Ma
 Ph.D. Candidate (Since 2019 Spring)
