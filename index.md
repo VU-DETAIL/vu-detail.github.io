@@ -27,3 +27,5 @@ Department of Electrical and Computer Engineering, Villanova University
 800 E. Lancaster Ave., Villanova, 19085
 
 Email: xun.jiao@villanova.edu
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fvu-detail.github.io)
