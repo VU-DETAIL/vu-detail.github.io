@@ -1,5 +1,4 @@
-## Dependable, Efficient, and Intelligent Computing Lab
-## [Home](./) [People](./people) [Research](./research) [Publication](./publication) [About](./about) 
+## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
 * [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received Best Paper Award!
