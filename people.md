@@ -1,4 +1,4 @@
-## [**Home**](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
+## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 ## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)

@@ -1,4 +1,4 @@
-## [**Home**](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
+## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # Dongning Ma
 Ph.D. Candidate (Since 2019 Spring)
