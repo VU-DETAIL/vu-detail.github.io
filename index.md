@@ -1,7 +1,6 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
-* [08/12/2019] ErrMAx: Machine Learning-based Input-aware Error Modeling of Approximate Adders is accepted to ESWEEK'19 Student Research Competition!
 * [07/10/2019] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019!
 * [07/10/2019] Paper on DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits is accepted to CODES+ISSS 2019!
 * [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received Best Paper Award!
