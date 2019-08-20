@@ -1,4 +1,4 @@
-## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
+## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) 
 
 # Dongning Ma
 Ph.D. Candidate (Since 2019 Spring)
@@ -22,3 +22,6 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CE) from [Departme
 ### Professional Service
 ### Teaching
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
+
+###Personal Quote:
+我即使是死了，钉在棺材里了，也要在墓里，用这腐朽的声带喊出，“我要喝胡辣汤！！！”
