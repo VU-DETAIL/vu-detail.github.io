@@ -1,9 +1,9 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
-* [07/10/2019] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019 as ```diff a Best Paper candidate!!```
+* [07/10/2019] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019 as a **Best Paper Candidate**!
 * [07/10/2019] Paper on DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits is accepted to CODES+ISSS 2019!
-* [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received Best Paper Award!
+* [06/14/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received **Best Paper Award**!
 * [06/14/2019] Paper on Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing is accepted to ESEC/FSE 2019.
 * [06/08/2019] Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship) joins DETAIL to conduct research on approximate computing this summer. Welcome, Ray!
 * [06/08/2019] Xun Jiao delivered an invited talk at DACPS workshop@Design Automation Conference.
