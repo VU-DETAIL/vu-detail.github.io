@@ -13,7 +13,7 @@
 
 [Shenda Huang (Villanova Match Research Program for First Year Students)](./people/shuang)
 
-[Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
+[Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/wxj)
 
 [Vu Tran](./people/vtran)
 
