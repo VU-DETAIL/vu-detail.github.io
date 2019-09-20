@@ -1,3 +1,5 @@
+## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) 
+
 # Xingjian Wang
 First-Year Undergraduate (Since 2018 Fall)
 
