@@ -1,8 +1,5 @@
----
-layout: page
-title: Shenda Huang
-permalink: /people/shuang
----
+## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) 
+
 # Shenda Huang
 First-Year Undergraduate (Since 2018 Fall)
 
