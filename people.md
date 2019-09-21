@@ -7,8 +7,6 @@
 [Dongning Ma](./people/dma)
 
 ### Undergraduate Students
-![](./asset/pengu.png | width = 450 x 450) [Penguin](./people/pengu) 
-
 [Siyu Shen](./people/sshen)
 
 [Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjim)
@@ -18,4 +16,7 @@
 [Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
 
 [Vu Tran](./people/vtran)
+
+###Others
+![Cute Penguin](./asset/pengu.jpg | width = 450 x 450) [Penguin](./people/pengu) 
 
