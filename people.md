@@ -7,6 +7,9 @@
 [Dongning Ma](./people/dma)
 
 ### Undergraduate Students
+![Image of Penguin](asset/pengu.png | width = 450 x 450)
+[Penguin](./people/pengu)
+
 [Siyu Shen](./people/sshen)
 
 [Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjim)
