@@ -18,5 +18,5 @@
 [Vu Tran](./people/vtran)
 
 ###Others
-![Cute Penguin](./asset/pengu.jpg | width = 450 x 450) [Penguin](./people/pengu) 
+![Cute Penguin](./asset/pengu.jpg) [Penguin](./people/pengu) 
 
