@@ -16,9 +16,3 @@
 [Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
 
 [Vu Tran](./people/vtran)
-
-###Others
-
-|||
------------|-------|-------- 
-![](./asset/pengu.jpg) [Penguin1](./people/pengu)  | ![](./asset/pengu.jpg) [Penguin2](./people/pengu) | ![](./asset/pengu.jpg) [Penguin3](./people/pengu) 
