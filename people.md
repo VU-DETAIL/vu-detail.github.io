@@ -18,6 +18,7 @@
 [Vu Tran](./people/vtran)
 
 ###Others
+|-|-|
 | <img align="left" width="300" height="300" src="./asset/pengu.jpg"> | [Penguin1](./people/pengu) |
 | <img align="left" width="300" height="300" src="./asset/pengu.jpg"> | [Penguin2](./people/pengu) |
 | <img align="left" width="300" height="300" src="./asset/pengu.jpg"> | [Penguin3](./people/pengu) |
