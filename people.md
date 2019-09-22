@@ -18,5 +18,7 @@
 [Vu Tran](./people/vtran)
 
 ###Others
-![Cute Penguin](./asset/pengu.jpg) [Penguin](./people/pengu) 
+1. <img align="left" width="300" height="300" src="./asset/penguin.jpg"> [Penguin1](./people/pengu) 
+2. <img align="left" width="300" height="300" src="./asset/penguin.jpg"> [Penguin2](./people/pengu) 
+3. <img align="left" width="300" height="300" src="./asset/penguin.jpg"> [Penguin3](./people/pengu) 
 
