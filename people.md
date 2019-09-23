@@ -9,7 +9,7 @@
 ### Undergraduate Students
 [Siyu Shen](./people/sshen)
 
-[Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjim)
+[Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjimi)
 
 [Shenda Huang (Villanova Match Research Program for First Year Students)](./people/shuang)
 
