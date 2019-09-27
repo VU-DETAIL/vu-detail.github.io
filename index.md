@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [09/27/2019] Ph.D. student Dongning Ma receives NSF Student Travel Grant ($1000) to attend IGSC 2019 to present his research!
 * [09/01/2019] Ph.D. student Dongning Ma's work on approximate computing is accepted to the ACM Student Research Competition and he will compete for prizes at ESWEEK'19 with a Travel Grant support ($500)
 * [07/10/2019] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019 as a **Best Paper Candidate**!
 * [07/10/2019] Paper on DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits is accepted to CODES+ISSS 2019!
