@@ -14,9 +14,9 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
   Hindawi, Journal of Applied Mathematics, 2013.
 
 ## Conference
-  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/emsoft19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
+  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF]() IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
 
-  - Dongning Ma, Siyu Shen, Xun Jiao, Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/CODES_ISSS2019_DeVos.pdf) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
+  - Dongning Ma, Siyu Shen, Xun Jiao, Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits. [PDF]() in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
 
   - Dongning Ma, Xun Jiao, Detecting and Bypassing Trivial Computations in Convolutional Neural Networks, [PDF](http://www.ece.villanova.edu/~xjiao/paper/NANOARCH19.pdf) IEEE/ACM International     Symposium on Nanoscale Architectures (**NANOARCH**), 2019
   
