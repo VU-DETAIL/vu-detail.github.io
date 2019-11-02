@@ -1,6 +1,8 @@
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) 
 
 ## Journal
+  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) ACM Transactions on Embedded Computing Systems (TECS) 2019.
+  
   - Xun Jiao, Abbas Rahimi, Yu Jiang, Jianguo Wang, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta
   CLIM: A Cross-level Workload-aware Timing Error Prediction Model for Functional Units. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TC.pdf) 
   IEEE Transactions on Computers (TC) 2018.
