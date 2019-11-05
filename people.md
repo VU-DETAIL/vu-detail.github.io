@@ -7,7 +7,7 @@
 [Dongning Ma](./people/dma)
 
 ### Undergraduate Students
-[Siyu Shen](./people/sshen)
+[Siyu Shen](./people/sshen) (Senior at Boston University)
 
 [Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjimi)
 
@@ -15,4 +15,18 @@
 
 [Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
 
-[Vu Tran](./people/vtran)
+# Senior Design Group
+Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
+
+[Breda Marie Brady]()
+
+[Austin Hunt]()
+
+[Jacob Bonanotte]()
+
+[Justin Apun]()
+
+
+#Alumni
+
+[Vu Tran](./people/vtran) (Embedded Firmware Engineer at Pergamon Corp)
