@@ -15,16 +15,7 @@
 
 [Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
 
-# Senior Design Group
-Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
-
-[Breda Marie Brady]()
-
-[Austin Hunt]()
-
-[Jacob Bonanotte]()
-
-[Justin Apun]()
+[Breda Marie Brady]() [Austin Hunt]() [Jacob Bonanotte]() [Justin Apun]() Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
 
 
 #Alumni
