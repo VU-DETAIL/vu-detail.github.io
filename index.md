@@ -1,7 +1,9 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
-* [11/08/2019] Xun Jiao served on the TPC of the ACM Workshop on Automotive and Aerial Vehicle Security (AutoSec), in conjunction with ACM CODASPY 2020. 
+* [11/15/2019] Xun Jiao will serve on the TPC of DAC 2020. 
+* [11/15/2019] Xun Jiao will co-organize DACPS workshop, co-located with DAC 2020. 
+* [11/08/2019] Xun Jiao will serve on the TPC of the ACM Workshop on Automotive and Aerial Vehicle Security (AutoSec), in conjunction with ACM CODASPY 2020. 
 * [09/27/2019] Ph.D. student Dongning Ma receives NSF Student Travel Grant ($1000) to attend IGSC 2019 to present his research!
 * [09/01/2019] Ph.D. student Dongning Ma's work on approximate computing is accepted to the ACM Student Research Competition and he will compete for prizes at ESWEEK'19 with a Travel Grant support ($500)
 * [07/10/2019] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019 as a **Best Paper Candidate**!
