@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [11/16/2019] Paper on WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications is accepted to Embedded Systems Letters!
 * [11/15/2019] Xun Jiao will serve on the TPC of DAC 2020. 
 * [11/15/2019] Xun Jiao will co-organize DACPS workshop, co-located with DAC 2020. 
 * [11/08/2019] Xun Jiao will serve on the TPC of the ACM Workshop on Automotive and Aerial Vehicle Security (AutoSec), in conjunction with ACM CODASPY 2020. 
