@@ -9,7 +9,7 @@ Villanova University
 
 Email: dma2@villanova.edu 
 
-## About me
+## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing](https://http://ae.ustb.edu.cn/www.ustb.edu.cn).
 ## Research & Publication
 ### Journal
@@ -25,7 +25,13 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. IGSC 2019 NSF Student Travel Support ($1000)
 
 ## Other Activities
-### Professional Service
+### Services
+1. Reviewer IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
+### Professional Activities
+1. Student Member, IEEE (2019 - )
+1. Student Member, ACM (2019 - )
+
 ### Teaching
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019) at Villanova University
 1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Fall 2019) at Villanova Unviersity
