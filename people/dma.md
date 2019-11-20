@@ -1,7 +1,7 @@
 ## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) 
 
 # Dongning Ma
-Ph.D. Candidate (Since 2019 Spring) [CV](../asset/dma_CV.pdf)
+Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_CV.pdf)
 
 Department of Electrical and Computer Engineering
 
