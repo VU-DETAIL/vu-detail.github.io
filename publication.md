@@ -1,6 +1,8 @@
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) 
 
 ## Journal
+  - Dongning Ma, Xun Jiao, WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications, [PDF](http://www.ece.villanova.edu/~xjiao/paper/ESL19.pdf) Embedded Systems Letters, 2019
+
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) ACM Transactions on Embedded Computing Systems (TECS) 2019.
   
   - Xun Jiao, Abbas Rahimi, Yu Jiang, Jianguo Wang, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta
