@@ -17,6 +17,8 @@
 
 [Breda Marie Brady](), [Austin Hunt](), [Jacob Bonanotte](), [Justin Apun]() Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
 
+[Hongbo Sun]()
+
 
 ### Alumni
 
