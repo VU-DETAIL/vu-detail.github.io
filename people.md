@@ -7,7 +7,7 @@
 [Dongning Ma](./people/dma)
 
 ### Undergraduate Students
-[Siyu Shen](./people/sshen) (Senior at Boston University)
+
 
 [Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjimi)
 
@@ -17,8 +17,9 @@
 
 [Breda Marie Brady](), [Austin Hunt](), [Jacob Bonanotte](), [Justin Apun]() Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
 
-[Hongbo Sun]()
+[Hongbo Sun](./)
 
+[Siyu Shen](./)
 
 ### Alumni
 
