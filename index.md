@@ -2,8 +2,8 @@
 
 # News
 * [01/2020] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
-* [12/2019] Paper on software vulnerability detection accepted in IEEE Transactions on Software Engineering (TSE)!
-* [12/2019] Paper on fuzz testing accepted in IEEE Transactions on Dependable and Secure Computing (TDSC)!
+* [12/2019] Paper on software vulnerability detection is accepted in IEEE Transactions on Software Engineering (TSE)!
+* [12/2019] Paper on fuzz testing is accepted in IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [12/2019] Xun Jiao will serve on the TPC of GLSVLSI 2020. 
 * [11/2019] Paper on WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications is accepted to Embedded Systems Letters!
 * [11/2019] Xun Jiao will serve on the TPC of DAC 2020. 
