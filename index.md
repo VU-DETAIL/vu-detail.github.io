@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [01/2020] One paper is accepted to SELSE 2020 workshop at Stanford University! 
 * [01/2020] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
 * [12/2019] Paper on software vulnerability detection is accepted in IEEE Transactions on Software Engineering (TSE)!
 * [12/2019] Paper on fuzz testing is accepted in IEEE Transactions on Dependable and Secure Computing (TDSC)!
@@ -16,7 +17,7 @@
 * [06/2019] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received **Best Paper Award**!
 * [06/2019] Paper on Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing is accepted to ESEC/FSE 2019.
 * [06/2019] Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship) joins DETAIL to conduct research on approximate computing this summer. Welcome, Ray!
-* [06/2019] Xun Jiao delivered an invited talk at DACPS workshop@Design Automation Conference.
+* [06/2019] Xun Jiao delivered an invited talk at DACPS workshop at Design Automation Conference (DAC) 2019.
 * [06/2019] Paper on Detecting and Bypassing Trivial Computations in Convolutional Neural Networks is accepted to NANOARCH 2019.
 * [05/2019] Paper on Energy Efficient GPU Applications Through Computation Skip is accepted to ICESS 2019.
 * [05/2019] Paper on Emsemble Fuzzing with Seed Synchronization among Diverse Fuzzers is accepted to USENIX Security 2019.
