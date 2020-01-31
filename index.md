@@ -6,7 +6,7 @@
 * [12/2019] Paper on software vulnerability detection is accepted in IEEE Transactions on Software Engineering (TSE)!
 * [12/2019] Paper on fuzz testing is accepted in IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [12/2019] Xun Jiao will serve on the TPC of GLSVLSI 2020. 
-* [11/2019] Paper on WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications is accepted to Embedded Systems Letters!
+* [11/2019] Paper on WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications is accepted to IEEE Embedded Systems Letters!
 * [11/2019] Xun Jiao will serve on the TPC of DAC 2020. 
 * [11/2019] Xun Jiao will co-organize DACPS workshop, co-located with DAC 2020. 
 * [11/2019] Xun Jiao will serve on the TPC of the ACM Workshop on Automotive and Aerial Vehicle Security (AutoSec), in conjunction with ACM CODASPY 2020. 
