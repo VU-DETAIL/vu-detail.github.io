@@ -1,35 +1,35 @@
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) 
 
 ## Journal
-  - Dongning Ma, Xun Jiao, WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications, [PDF](http://www.ece.villanova.edu/~xjiao/paper/ESL19.pdf) Embedded Systems Letters, 2019
 
-  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) ACM Transactions on Embedded Computing Systems (TECS) 2019.
+  - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing." IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
+  
+  - Jian Gao, Yu Jiang, Zhe Liu, Xin Yang, Cong Wang, Xun Jiao, Zijiang Yang, and Jiaguang Sun. "Semantic Learning and Emulation Based Cross-platform Binary Vulnerability Seeker." IEEE Transactions on Software Engineering (**TSE**), 2019.
+
+  - Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ESL19.pdf) IEEE Embedded Systems Letters (**ESL**), 2019
+
+  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) ACM Transactions on Embedded Computing Systems (**TECS**) 2019.
   
   - Xun Jiao, Abbas Rahimi, Yu Jiang, Jianguo Wang, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta
-  CLIM: A Cross-level Workload-aware Timing Error Prediction Model for Functional Units. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TC.pdf) 
-  IEEE Transactions on Computers (TC) 2018.
+  "CLIM: A Cross-level Workload-aware Timing Error Prediction Model for Functional Units", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TC.pdf) IEEE Transactions on Computers (**TC**), 2018.
 
-  - Yu Jiang , Hehua Zhang , Xiaoyu Song, Xun Jiao, William N. N. Hung, and Jiaguang Sun.
-  Bayesian Network Based Reliability Analysis of PLC Systems. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf)
-IEEE Transaction on Industry Electronics (TIE) 2013.
+  - Yu Jiang , Hehua Zhang , Xiaoyu Song, Xun Jiao, William N. N. Hung, and Jiaguang Sun, "Bayesian Network Based Reliability Analysis of PLC Systems". [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf) IEEE Transaction on Industry Electronics (**TIE**), 2013.
 
   - Xibing Zhao, Hehua Zhang, Yu Jiang, Songzheng Song, Xun Jiao, and Ming Gu.
-  An Effective Heuristic Based Approach for partitiong. [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf)
-  Hindawi, Journal of Applied Mathematics, 2013.
+  "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
 
 ## Conference
-  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, Polar: Function Code Aware Fuzz Testing of ICS Protocol, [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
+  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
 
-  - Dongning Ma, Siyu Shen, Xun Jiao, Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits. [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
+  - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
 
-  - Dongning Ma, Xun Jiao, Detecting and Bypassing Trivial Computations in Convolutional Neural Networks, [PDF](http://www.ece.villanova.edu/~xjiao/paper/NANOARCH19.pdf) IEEE/ACM International     Symposium on Nanoscale Architectures (**NANOARCH**), 2019
+  - Dongning Ma, Xun Jiao, "Detecting and Bypassing Trivial Computations in Convolutional Neural Networks", [PDF](http://www.ece.villanova.edu/~xjiao/paper/NANOARCH19.pdf) IEEE/ACM International Symposium on Nanoscale Architectures (**NANOARCH**), 2019
   
-  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design, Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. **Best Paper Award**.
+  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, "Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design", Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. **Best Paper Award**.
   
-  - Heyuan Shi, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang, Jiaguang Sun, Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2019
+  - Heyuan Shi, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang, Jiaguang Sun, "Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing", ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2019
 
-  - Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, and Zuo Su 
-  EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers. [PDF](http://www.ece.villanova.edu/~xjiao/paper/Security19.pdf) in Proc. USENIX Security Symposium (**USENIX Security**), USA, 2019.
+  - Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, and Zuo Su, "EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers". [PDF](http://www.ece.villanova.edu/~xjiao/paper/Security19.pdf) in Proc. USENIX Security Symposium (**USENIX Security**), USA, 2019.
   
   - Dongning Ma, Xun Jiao,  Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
   
