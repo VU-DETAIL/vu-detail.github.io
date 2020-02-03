@@ -23,7 +23,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Honors
 1. IGSC 2019 NSF Student Travel Support ($1000)
-1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant ($500)
+1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant ($500, sponsored by Microsoft)
 
 
 ## Other Activities
