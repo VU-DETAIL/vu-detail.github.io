@@ -19,6 +19,10 @@
   "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
 
 ## Conference
+  - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
+
+  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
 
   - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
