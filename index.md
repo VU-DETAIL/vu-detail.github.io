@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [02/2020] Paper on approximate computation reuse is accepted to GLSVLSI Special Session!
 * [02/2020] Two paper on approximate computing and fuzz testing accepted to DAC 2020!
 * [01/2020] One paper is accepted to SELSE 2020 workshop at Stanford University! 
 * [01/2020] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
