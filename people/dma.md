@@ -16,6 +16,8 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications, Embedded Systems Letters, 2019
 
 ### Conference
+1. Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". 30th ACM Great Lakes Symposium on VLSI (GLSVLSI), Beijing, China, 2020. (Accepted)
+1. Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". 57th 2019 ACM/EDAC/IEEE Design Automation Conference (DAC), San Francisco, CA, 2020. (Accepted)
 1. Dongning Ma, Xun Jiao, An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units. The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (Accepted)
 1. Dongning Ma, Siyu Shen, Xun Jiao, Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits. in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
 1. Dongning Ma, Xun Jiao, Detecting and Bypassing Trivial Computations in Convolutional Neural Networks, IEEE/ACM International     Symposium on Nanoscale Architectures (**NANOARCH**), 2019
