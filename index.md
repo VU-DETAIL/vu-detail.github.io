@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [02/2020] Ph.D. student Dongning Ma receives NSF support to attend the Student Activities Program at VTS'20!
 * [02/2020] Paper on energy-efficient deep learning on GPU accepted to GLSVLSI 2020!
 * [02/2020] Paper on circuit variability-induced error modeling accepted to DAC 2020! 
 * [02/2020] Paper on industrial control system (ICS) security vulnerability accepted to DAC 2020!
