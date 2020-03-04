@@ -21,6 +21,6 @@ The continuous growth of big data regime and machine learning applications has p
 ## Secure/Dependable Computing Systems
 Cyber-security in the digital age is a first-class concern. The ever-increasing use of digital devices, unfortunately, is facing significant challenges, due to the serious effects of security vulnerabilities, which can lead to medical data leakage, adversarial control of nuclear power plants or car hijacking. This challenge is even more pronounced in battlefields when IoT systems are more likely to be targeted by cyber-criminals or hostiles. To identify vulnerabilities in digital systems, we adopt a fuzzing-based approach to:  
 
-*	Identify vulnerabilities from a large set of real-world software such as Google fuzzer-test-suite [ICSE'18, USENIX Security '19, TSE'19]. Over 100 previously unknown vulnerabilities are discovered and are reported to the US National Vulnerability Database with unique CVE assignments. 
+*	Identify vulnerabilities from a large set of real-world software such as Google fuzzer-test-suite [ICSE'18, USENIX Security '19, TSE'19, TDSC'19]. Over 100 previously unknown vulnerabilities are discovered and are reported to the US National Vulnerability Database with unique CVE assignments. 
 
-*	Identify vulnerabilities from industrial control system (ICS) software/protocol: 10 previously unknown vulnerabilities are discovered and 6 of which have been assigned unique CVE identifiers in the US National Vulnerability Database. (Best paper nomination in EMSOFT'19)
+*	Identify vulnerabilities from industrial control system (ICS) software/protocol: 10 previously unknown vulnerabilities are discovered and 6 of which have been assigned unique CVE identifiers in the US National Vulnerability Database. (EMSOFT'19, DAC'20)
