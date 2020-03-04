@@ -23,4 +23,4 @@ Cyber-security in the digital age is a first-class concern. The ever-increasing 
 
 *	Identify vulnerabilities from a large set of real-world software such as Google fuzzer-test-suite [ICSE'18, USENIX Security '19, TSE'19, TDSC'19]. Over 100 previously unknown vulnerabilities are discovered and are reported to the US National Vulnerability Database with unique CVE assignments. 
 
-*	Identify vulnerabilities from industrial control system (ICS) software/protocol: 10 previously unknown vulnerabilities are discovered and 6 of which have been assigned unique CVE identifiers in the US National Vulnerability Database. (EMSOFT'19, DAC'20)
+*	Identify vulnerabilities from industrial control system (ICS) software/protocol: 10 previously unknown vulnerabilities are discovered and 6 of which have been assigned unique CVE identifiers in the US National Vulnerability Database. [EMSOFT'19, DAC'20]
