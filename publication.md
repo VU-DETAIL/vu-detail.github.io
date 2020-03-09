@@ -2,9 +2,11 @@
 
 ## Journal
 
-  - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing". IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
+  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020
+
+  - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TDSC19.pdf) IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
   
-  - Jian Gao, Yu Jiang, Zhe Liu, Xin Yang, Cong Wang, Xun Jiao, Zijiang Yang, and Jiaguang Sun. "Semantic Learning and Emulation Based Cross-platform Binary Vulnerability Seeker." IEEE Transactions on Software Engineering (**TSE**), 2019.
+  - Jian Gao, Yu Jiang, Zhe Liu, Xin Yang, Cong Wang, Xun Jiao, Zijiang Yang, and Jiaguang Sun. "Semantic Learning and Emulation Based Cross-platform Binary Vulnerability Seeker", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TSE19.pdf) IEEE Transactions on Software Engineering (**TSE**), 2019.
 
   - Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ESL19.pdf) IEEE Embedded Systems Letters (**ESL**), 2019
 
