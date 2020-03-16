@@ -8,22 +8,24 @@
 
 ### Undergraduate Students
 
-[Rahul Thapa]()
+Rahul Thapa
 
-[Andrew Osburn (Villanova Match Research Program for First Year Students)]()
+Andrew Osburn (Villanova Match Research Program for First Year Students)
 
-[Hongbo Sun](./)
+Hongbo Sun
 
-[Siyu Shen](./)
-
-[Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./people/rogunjimi)
-
-[Shenda Huang (Villanova Match Research Program for First Year Students)](./people/shuang)
-
-[Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./people/xwang)
-
-[Breda Marie Brady](), [Austin Hunt](), [Jacob Bonanotte](), [Justin Apun]() Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco)
+Mauro Sanchirico (MS Student co-advised with Dr. Nataraj)
 
 ### Alumni
 
-[Vu Tran](./people/vtran) (Embedded Firmware Engineer at Pergamon Corp)
+Vu Tran (Embedded Firmware Engineer at Pergamon Corp)
+
+Shenda Huang (Villanova Match Research Program for First Year Students)
+
+Xingjian Wang (Villanova Undergraduate Research Fellowship)
+
+Siyu Shen
+
+Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)
+
+Breda Marie Brady, Austin Hunt, Jacod Bonanotte, Justin Apun. (Topic: IoT-based vision system assisting visually-impaired people (Sponsored by Cisco))
