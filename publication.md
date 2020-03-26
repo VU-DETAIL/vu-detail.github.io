@@ -25,7 +25,7 @@
 ## Conference
   - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
   
-  - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+  - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
 
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
