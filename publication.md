@@ -32,13 +32,13 @@
   
   - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper**)
 
-  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
+  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. (**Best Paper Candidate**)
 
   - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
 
   - Dongning Ma, Xun Jiao, "Detecting and Bypassing Trivial Computations in Convolutional Neural Networks", [PDF](http://www.ece.villanova.edu/~xjiao/paper/NANOARCH19.pdf) IEEE/ACM International Symposium on Nanoscale Architectures (**NANOARCH**), 2019
   
-  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, "Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design", Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. **Best Paper Award**.
+  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, "Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design", Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. (**Best Paper Award**)
   
   - Heyuan Shi, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang, Jiaguang Sun, "Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing", ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2019
 
