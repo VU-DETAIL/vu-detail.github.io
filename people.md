@@ -18,6 +18,8 @@ Andrew Osburn (Villanova Match Research Program for First Year Students)
 
 Hongbo Sun
 
+Siyu Shen
+
 ### Alumni
 
 Vu Tran (Embedded Firmware Engineer at Pergamon Corp)
@@ -25,8 +27,6 @@ Vu Tran (Embedded Firmware Engineer at Pergamon Corp)
 Shenda Huang (Villanova Match Research Program for First Year Students)
 
 Xingjian Wang (Villanova Undergraduate Research Fellowship)
-
-Siyu Shen
 
 Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)
 
