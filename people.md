@@ -8,7 +8,7 @@
 
 ### M.S. Students
 
-Mauro Sanchirico (M.S. Student co-advised with Dr. Nataraj)
+Mauro Sanchirico (co-advised with Dr. Nataraj)
 
 ### Undergraduate Students
 
