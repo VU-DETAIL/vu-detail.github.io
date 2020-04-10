@@ -29,6 +29,8 @@
 
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+  
+  - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper**)
 
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. **Best Paper Candidate**
 
