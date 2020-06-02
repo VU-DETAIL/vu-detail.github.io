@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [06/2020] Ph.D. student Dongning Ma is accepted to the DAC 2020 Young Fellows program!
 * [04/2020] Dr. Xun Jiao is invited to present and brief in the U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19.
 * [04/2020] Our paper is selected as a **best paper** of SELSE 2020.  
 * [03/2020] Paper on the resilience of deep neural networks is accepted to IEEE Design & Test!
