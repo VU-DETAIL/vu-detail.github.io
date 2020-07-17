@@ -23,10 +23,14 @@
   "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
 
 ## Conference
+
+  - Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSN2020.pdf) 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
+
+  - Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSD2020.pdf) 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020.
+
   - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
   
   - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
-
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
   
