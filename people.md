@@ -3,10 +3,8 @@
 ## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
-### Ph.D. Students
+### Graduate Students
 [Dongning Ma](./people/dma)
-
-### M.S. Students
 
 Mauro Sanchirico (co-advised with Dr. Nataraj)
 
@@ -14,7 +12,7 @@ Mauro Sanchirico (co-advised with Dr. Nataraj)
 
 Rahul Thapa
 
-Andrew Osburn (Villanova Match Research Program for First Year Students)
+Andrew Osburn
 
 Hongbo Sun
 
