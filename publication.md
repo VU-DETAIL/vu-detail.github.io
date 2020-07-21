@@ -1,12 +1,30 @@
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) 
 
-## Journal
+## 2020
+# Journal
 
   - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test, 2020
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020
 
-  - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TDSC19.pdf) IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
+# Conference
+
+  - Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSN2020.pdf) 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
+
+  - Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSD2020.pdf) 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020.
+
+  - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
+  
+  - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+
+  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+  
+  - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper**)
+
+
+## Earlier
+# Journal
+ - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TDSC19.pdf) IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
   
   - Jian Gao, Yu Jiang, Zhe Liu, Xin Yang, Cong Wang, Xun Jiao, Zijiang Yang, and Jiaguang Sun. "Semantic Learning and Emulation Based Cross-platform Binary Vulnerability Seeker", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TSE19.pdf) IEEE Transactions on Software Engineering (**TSE**), 2019.
 
@@ -21,21 +39,7 @@
 
   - Xibing Zhao, Hehua Zhang, Yu Jiang, Songzheng Song, Xun Jiao, and Ming Gu.
   "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
-
-## Conference
-
-  - Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSN2020.pdf) 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
-
-  - Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSD2020.pdf) 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020.
-
-  - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
-  
-  - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
-
-  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
-  
-  - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper**)
-
+# Conference
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. (**Best Paper Candidate**)
 
   - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
