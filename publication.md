@@ -1,13 +1,13 @@
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) 
 
 ## 2020
-# Journal
+### Journal
 
   - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test, 2020
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020
 
-# Conference
+### Conference
 
   - Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSN2020.pdf) 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
 
@@ -23,7 +23,7 @@
 
 
 ## Earlier
-# Journal
+### Journal
  - Jie Liang, Yu Jiang, Mingzhe Wang, Xun Jiao, Yuanliang Chen, Houbing Song, and Kim-Kwang Raymond Choo. "DeepFuzzer: Accelerated Deep Greybox Fuzzing", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TDSC19.pdf) IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2019.
   
   - Jian Gao, Yu Jiang, Zhe Liu, Xin Yang, Cong Wang, Xun Jiao, Zijiang Yang, and Jiaguang Sun. "Semantic Learning and Emulation Based Cross-platform Binary Vulnerability Seeker", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TSE19.pdf) IEEE Transactions on Software Engineering (**TSE**), 2019.
@@ -39,7 +39,7 @@
 
   - Xibing Zhao, Hehua Zhang, Yu Jiang, Songzheng Song, Xun Jiao, and Ming Gu.
   "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
-# Conference
+### Conference
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. (**Best Paper Candidate**)
 
   - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
