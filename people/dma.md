@@ -43,6 +43,8 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Teaching
 At Villanova University:
+1. Teaching Assistant for EGR 1200 - Engineering Interdisciplinary Project I (Fall 2020)
+1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2020)
 1. Teaching Assistant for ECE 2045 - Engineering Programming and Application (Spring 2020)
 1. Teaching Assistant for ECE 2045 - Fundamentals of Computer Engineering II Lab (Spring 2020)
 1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Fall 2019)
