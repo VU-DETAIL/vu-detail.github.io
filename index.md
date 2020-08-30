@@ -1,7 +1,10 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
-* [08/2020] Our paper at Euromicro DSD 2020 receives the Outstanding Paper Award!
+* [08/2020] Collaborative project on smart, secure, and scalable IoT system is funded by National Science Foundation!
+* [08/2020] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
+* [08/2020] Our paper at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
+* [08/2020] One paper is accepted to ICCAD!
 * [07/2020] Two papers are accepted to EMSOFT 2020.
 * [06/2020] Paper on approximate computation bypass in neural network and image processing applications is accepted to Euromicro DSD 2020!
 * [06/2020] Ph.D. student Dongning Ma is accepted to the DAC 2020 A. Richard Newton Young Student Fellow Program!
