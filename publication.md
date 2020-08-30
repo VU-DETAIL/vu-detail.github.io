@@ -12,7 +12,7 @@
   
   - Xiaotian Dai, Shuai Zhao, Yu Jiang, Xun Jiao, X. Sharon Hu and Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICCAD20.pdf) International Conference On Computer Aided Design (**ICCAD**), 2020
   
-  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint arXiv:2007.06226, (2020).
+  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2020.
 
   - C. A. K. Kwuimy, Foad Nazari, Xun Jiao, Pejman Rohani & C. Nataraj. "Nonlinear dynamic analysis of an epidemiological model for COVID-19 including public behavior and government action", [PDF](https://link.springer.com/article/10.1007/s11071-020-05815-z) Nonlinear Dyn, 2020.
   
