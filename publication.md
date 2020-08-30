@@ -11,7 +11,11 @@
   - Jing Huang, Renfa Li, Xun Jiao, Yu Jiang and Wanli Chang. "Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20_DAG.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
   
   - Xiaotian Dai, Shuai Zhao, Yu Jiang, Xun Jiao, X. Sharon Hu and Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICCAD20.pdf) International Conference On Computer Aided Design (**ICCAD**), 2020
+  
+  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint arXiv:2007.06226, (2020).
 
+  - C. A. K. Kwuimy, Foad Nazari, Xun Jiao, Pejman Rohani & C. Nataraj. "Nonlinear dynamic analysis of an epidemiological model for COVID-19 including public behavior and government action", [PDF](https://link.springer.com/article/10.1007/s11071-020-05815-z) Nonlinear Dyn, 2020.
+  
   - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test, 2020.
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
