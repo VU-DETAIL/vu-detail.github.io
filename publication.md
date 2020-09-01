@@ -6,23 +6,19 @@
   
   - Jing Huang, Renfa Li, Xun Jiao, Yu Jiang and Wanli Chang. "Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT20_DAG.pdf) The ACM SIGBED International Conference on Embedded Software (**EMSOFT**), Hamburg, Germany, 2020.
   
-  - Jian Gao, Yiwen Xu, Yu Jiang, Zhe Liu, Wanli Chang, Xun Jiao and Jiaguang Sun. "EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking Instrumentation", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20_EMFUZZ.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
-  
-  - Jing Huang, Renfa Li, Xun Jiao, Yu Jiang and Wanli Chang. "Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20_DAG.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
-  
   - Xiaotian Dai, Shuai Zhao, Yu Jiang, Xun Jiao, X. Sharon Hu and Wanli Chang. "Fixed-Priority Scheduling and Controller Co-Design for Time-Sensitive Networks", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICCAD20.pdf) International Conference On Computer Aided Design (**ICCAD**), 2020
   
-  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2020.
+  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2020. (Submitted to **TNNLS**)
 
   - C. A. K. Kwuimy, Foad Nazari, Xun Jiao, Pejman Rohani & C. Nataraj. "Nonlinear dynamic analysis of an epidemiological model for COVID-19 including public behavior and government action", [PDF](https://link.springer.com/article/10.1007/s11071-020-05815-z) Nonlinear Dyn, 2020.
   
-  - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test, 2020.
+  - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test (**IEEE D&T**), 2020.
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 
   - Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSN2020.pdf) 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
 
-  - Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSD2020.pdf) 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020.
+  - Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DSD2020.pdf) 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020. (**Outstanding Paper Award**)
 
   - Dongning Ma, Xunzhao Yin, Michael Niemier, X. Sharon Hu, Xun Jiao, "AxR-NN: Approximate Computation Reuse for Energy-Efficient Convolutional Neural Networks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/GLSVLSI20.pdf) 30th ACM Great Lakes Symposium on VLSI (**GLSVLSI**), Beijing, China, 2020.
   
@@ -30,7 +26,7 @@
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
   
-  - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper**)
+  - Dongning Ma, Xun Jiao, "An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units". The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper Award**)
 
 
 ## 2019
