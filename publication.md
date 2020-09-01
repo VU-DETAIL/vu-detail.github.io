@@ -2,7 +2,7 @@
 
 ## 2020
 
-  - Jian Gao, Yiwen Xu, Yu Jiang, Zhe Liu, Wanli Chang, Xun Jiao and Jiaguang Sun. "EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking Instrumentation", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT20_EMFUZZ.pdf) The ACM SIGBED International Conference on Embedded Software (**EMSOFT**), Hamburg, Germany, 2020.
+  - Jian Gao, Yiwen Xu, Yu Jiang, Zhe Liu, Wanli Chang, Xun Jiao and Jiaguang Sun. "EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking Instrumentation", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT20_EMFUZZ.pdf) The ACM SIGBED International Conference on Embedded Software (**EMSOFT**), Hamburg, Germany, 2020. (**Best Paper Candidate**)
   
   - Jing Huang, Renfa Li, Xun Jiao, Yu Jiang and Wanli Chang. "Dynamic DAG Scheduling on Multiprocessor Systems: Reliability, Energy and Makespan", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT20_DAG.pdf) The ACM SIGBED International Conference on Embedded Software (**EMSOFT**), Hamburg, Germany, 2020.
   
