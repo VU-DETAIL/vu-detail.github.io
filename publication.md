@@ -37,10 +37,6 @@
 
   - Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", [PDF](http://www.ece.villanova.edu/~xjiao/paper/ESL19.pdf) IEEE Embedded Systems Letters (**ESL**), 2019
 
-  - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) ACM Transactions on Embedded Computing Systems (**TECS**) 2019.
-
-  - Xibing Zhao, Hehua Zhang, Yu Jiang, Songzheng Song, Xun Jiao, and Ming Gu. "An Effective Heuristic Based Approach for partitiong". [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf) Hindawi, Journal of Applied Mathematics, 2013.
-
   - Zhengxiong Luo, Feilong Zuo, Yu Jiang, Jian Gao, Xun Jiao, Jiaguang Sun, "Polar: Function Code Aware Fuzz Testing of ICS Protocol", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT19.pdf) IEEE/ACM International Conference on Embedded Software (**EMSOFT**), 2019. (**Best Paper Candidate**)
 
   - Dongning Ma, Siyu Shen, Xun Jiao, "Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits". [PDF](http://www.ece.villanova.edu/~xjiao/paper/CODES19.pdf ) in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
@@ -59,7 +55,6 @@
 
   - Xun Jiao, Abbas Rahimi, Yu Jiang, Jianguo Wang, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta "CLIM: A Cross-level Workload-aware Timing Error Prediction Model for Functional Units", [PDF](http://www.ece.villanova.edu/~xjiao/paper/TC.pdf) IEEE Transactions on Computers (**TC**), 2018.
 
-  - Yu Jiang , Hehua Zhang , Xiaoyu Song, Xun Jiao, William N. N. Hung, and Jiaguang Sun, "Bayesian Network Based Reliability Analysis of PLC Systems". [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf) IEEE Transaction on Industry Electronics (**TIE**), 2013.
   - Xun Jiao, Vahideh Akhlaghi, Yu Jiang, and Rajesh Gupta, "Energy-Efficient Neural Networks using Approximate Computation Reuse". [PDF](http://mesl.ucsd.edu/pubs/Xun_DATE2018.pdf). IEEE/ACM Design, Automation, and Test in Europe (**DATE**), Dresden, Germany, 2018.
 
   - Mingzhe Wang, Jie Liang, Yuanliang Chen, Yu Jiang, Xun Jiao, Han Liu, Xibin Zhao, Jiaguang Sun, "SAFL: increasing and accelerating testing coverage with symbolic execution and guided fuzzing". [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICSE18.pdf) in Proc. International Conference on Software Engineering (**ICSE-Tool**), Gothenburg, Sweden, 2018.
@@ -73,7 +68,9 @@
   - Xun Jiao, Yu Jiang, Abbas Rahimi, and Rajesh Gupta, "WILD: A Workload-Based Learning Model to Predict Dynamic Delay of Functional Units". [PDF](http://mesl.ucsd.edu/pubs/Xun_ICCD16.pdf) in Proc. IEEE International Conference on Computer Design (**ICCD**), Phoenix, USA, 2016.
 
   - Xun Jiao, Abbas Rahimi, Balakrishnan Narayanaswamy, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta, "Supervised Learning Based Model for Predicting Variability-Induced Timing Errors". [PDF](http://mesl.ucsd.edu/pubs/Xun_NEWCAS15.pdf) in Proc. IEEE International NEW Circuits And Systems (**NEWCAS**) conference, Grenoble, France, 2015.
-
+  
+  - Yu Jiang , Hehua Zhang , Xiaoyu Song, Xun Jiao, William N. N. Hung, and Jiaguang Sun, "Bayesian Network Based Reliability Analysis of PLC Systems". [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf) IEEE Transaction on Industry Electronics (**TIE**), 2013.
+    
   - Yu Jiang, Hehua Zhang, Xun Jiao, Xiaoyu Song, William N.Hung, Ming Gu, and Jiaguang Sun, "Uncertain Model and Algorithm for Hardware/Software Partitioning". [PDF](http://www.ece.villanova.edu/~xjiao/paper/ISVLSI.pdf) in Proc. IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), 2012.
 
   - Hehua Zhang, Yu Jiang, Xun Jiao, Xiaoyu Song, William N.Hung, and Ming Gu. "Reliability Analysis of PLC Systems by Bayesian Network". [PDF](http://www.ece.villanova.edu/~xjiao/paper/SERE.pdf) in Proc. International Conference on Software Security and Reliability (**SERE**), 2012.
