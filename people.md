@@ -3,9 +3,11 @@
 ## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
-### Graduate Students
+### Ph.D. Students
 [Dongning Ma](./people/dma)
+[Ruixuan Richard Wang](./people/rwang)
 
+### Master Students
 Mauro Sanchirico (co-advised with Dr. Nataraj)
 
 ### Undergraduate Students
