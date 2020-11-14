@@ -5,6 +5,7 @@
 
 ### Ph.D. Students
 [Dongning Ma](./people/dma)
+
 [Ruixuan Richard Wang](./people/rwang)
 
 ### Master Students
