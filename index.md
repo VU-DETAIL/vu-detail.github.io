@@ -1,6 +1,8 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [11/2020] One paper is accepted to DATE 2021!
+* [10/2020] Richard Ruixuan Wang will be with DETAIL as a new Ph.D. student
 * [10/2020] Ph.D. student Dongning Ma receives NSF Student Support Award to attend IGSC 2020!
 * [08/2020] Collaborative project on smart, secure, and scalable IoT system is funded by National Science Foundation!
 * [08/2020] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
