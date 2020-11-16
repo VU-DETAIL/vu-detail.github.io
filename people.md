@@ -6,10 +6,10 @@
 ### Ph.D. Students
 [Dongning Ma](./people/dma)
 
-[Ruixuan Richard Wang](./people/rwang)
+[Ruixuan (Richard Wang)](./people/rwang)
 
 ### Master Students
-Mauro Sanchirico (co-advised with Dr. Nataraj)
+Mauro Sanchirico 
 
 ### Undergraduate Students
 
