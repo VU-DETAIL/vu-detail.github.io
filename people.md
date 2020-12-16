@@ -8,6 +8,8 @@
 
 [Richard (Ruixuan) Wang](./people/rwang)
 
+[Sizhe Zhang](./people/szhang)
+
 ### Master Students
 Bikal Lamichhane
 
