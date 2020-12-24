@@ -1,7 +1,8 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
-* [10/2020] Sizhe Zhang will join DETAIL as a new PhD student. Welcome, Sizhe!
+* [12/2020] Xun Jiao will serve on the TPC and track co-chair of DAC 2021. 
+* [11/2020] Sizhe Zhang will join DETAIL as a new PhD student. Welcome, Sizhe!
 * [11/2020] Our project is funded by L3 Harris. Thank you, L3 Harris! 
 * [11/2020] Paper on Approximate Computing is accepted to DATE 2021! (24% acceptance rate) 
 * [10/2020] Ruixuan (Richard) Wang will join DETAIL as a new PhD student. Welcome, Richard!
