@@ -4,7 +4,8 @@
 
 ### Conference
 
-  - Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, “Workload-Aware Approximate Computing Configuration”. IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2021.
+ - Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, “Workload-Aware Approximate Computing Configuration”, [PDF](http://www.ece.villanova.edu/~xjiao/paper/DATE21.pdf) IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2021.
+
 
 ## 2020
 
