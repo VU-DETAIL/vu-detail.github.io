@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [02/2021] [**Paper**] Paper about fuzz testing on hyperdimensional computing is accepted to DAC 2021!
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of DAC 2021. 
 * [11/2020] [**News**] Sizhe Zhang will join DETAIL as a new PhD student. Welcome, Sizhe!
 * [11/2020] [**Grant**] Our project is funded by L3 Harris. Thank you, L3 Harris! 
