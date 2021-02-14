@@ -17,6 +17,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications, IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+1. Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
 1. Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, "Workload-Aware Approximate Computing Configuration". 2021 Design, Automation & Test in Europe Conference & Exhibition (**DATE**), Grenoble, France, 2021.
 1. Dongning Ma, Xun Jiao, "A Machine Learning-based Error Model of Voltage-Scaled Circuits". 50th IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**), Valencia, Spain, 2020.
 1. Dongning Ma, Xun Jiao, "AxBy: Approximate Computation Bypass for Data-Intensive Applications". 2020 Euromicro Conference on Digital System Design (**Euromicro DSD**), Portorož, Slovenia, 2020. (**Outstanding Paper Award**)
@@ -37,7 +38,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ## Other Activities
 ### Services
-1. Reviewer IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+1. Reviewer for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 ### Professional Activities
 1. Student Member, IEEE (2019 - )
@@ -45,9 +46,10 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Teaching
 At Villanova University:
+1. Teaching Assistant for EGR 1620 - Engineering Programming and Application (Spring 2021)
 1. Teaching Assistant for EGR 1200 - Engineering Interdisciplinary Project I (Fall 2020)
 1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2020)
-1. Teaching Assistant for ECE 2045 - Engineering Programming and Application (Spring 2020)
+1. Teaching Assistant for ECE 1620 - Engineering Programming and Application (Spring 2020)
 1. Teaching Assistant for ECE 2045 - Fundamentals of Computer Engineering II Lab (Spring 2020)
 1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Fall 2019)
 1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2019)
