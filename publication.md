@@ -4,6 +4,8 @@
 
 ### Conference
 
+  - Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC21.pdf) 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+  
  - Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, “Workload-Aware Approximate Computing Configuration”, [PDF](http://www.ece.villanova.edu/~xjiao/paper/DATE21.pdf) IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2021.
 
 
@@ -23,7 +25,7 @@
 
   - Zhengxiong Luo, Feilong Zuo, Yuheng Shen, Xun Jiao, Wanli Chang, Yu Jiang，“ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation”. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20ICS.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
 
-  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2019 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
+  - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang, "TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC20TEVoT.pdf) 57th 2020 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
 
   - Jian Gao, Yiwen Xu, Yu Jiang, Zhe Liu, Wanli Chang, Xun Jiao and Jiaguang Sun. "EM-Fuzz: Augmented Firmware Fuzzing via Memory Checking Instrumentation", [PDF](http://www.ece.villanova.edu/~xjiao/paper/EMSOFT20_EMFUZZ.pdf) The ACM SIGBED International Conference on Embedded Software (**EMSOFT**), Hamburg, Germany, 2020. (**Best Paper Candidate**)
   
