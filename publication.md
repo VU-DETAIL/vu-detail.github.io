@@ -2,6 +2,10 @@
 
 ## 2021
 
+### Journal
+
+  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2021. (Submitted to TNNLS)
+
 ### Conference
 
   - Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC21.pdf) 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2020.
@@ -15,8 +19,6 @@
 
   - Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units",[PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD20.pdf) IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
   
-  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. "Neural Network Verification through Replication.", [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2020. (Submitted to **TNNLS**)
-
   - C. A. K. Kwuimy, Foad Nazari, Xun Jiao, Pejman Rohani & C. Nataraj. "Nonlinear dynamic analysis of an epidemiological model for COVID-19 including public behavior and government action", [PDF](https://link.springer.com/article/10.1007/s11071-020-05815-z) Nonlinear Dyn, 2020.
   
   - Jeng-Hau Lin, Xun Jiao, Mulong Luo, Zhuowen Tu, Rajesh Gupta. "Vulnerability of Hardware Neural Networks to Dynamic Operation Point Variations", [PDF](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) IEEE Design & Test (**IEEE D&T**), 2020.
