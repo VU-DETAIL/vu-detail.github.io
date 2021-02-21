@@ -1,6 +1,8 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [02/2021] [**Grant**] Our project on Deep Learning Hardware Accelerator is funded by Small Research Grant Pilot Program of Villanova University. 
+* [02/2021] [**Service**] Dr. Xun Jiao is invited to join the Editorial Board of Frontiers in Neuroscience. 
 * [02/2021] [**Paper**] Paper about fuzz testing on hyperdimensional computing is accepted to DAC 2021!
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of DAC 2021. 
 * [11/2020] [**Student**] Sizhe Zhang will join DETAIL as a new PhD student. Welcome, Sizhe!
