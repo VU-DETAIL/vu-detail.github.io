@@ -4,7 +4,7 @@
 
 ### Journal
 
-  - Sanchirico III, Mauro J., Dr Jiao, and Dr C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2021. (Submitted to TNNLS)
+  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2021. (Submitted to TNNLS)
 
 ### Conference
 
