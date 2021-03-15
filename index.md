@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
 
 # News
+* [03/2021] [**Paper**] Paper about anomaly detection using hyperdimensional computing is accepted to RTAS'21!
 * [02/2021] [**Grant**] Our project on Deep Learning Hardware Accelerator is funded by Small Research Grant Pilot Program of Villanova University. 
 * [02/2021] [**Service**] Dr. Xun Jiao is invited to join the Editorial Board of Frontiers in Neuroscience. 
 * [02/2021] [**Paper**] Paper about fuzz testing on hyperdimensional computing is accepted to DAC 2021!
