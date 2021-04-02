@@ -7,7 +7,7 @@
   - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, [PDF](https://arxiv.org/abs/2007.06226) arXiv preprint, 2021. (Submitted to TNNLS)
 
 ### Conference
-  - Ruixuan Wang, Fanxin Kong, Hasshi Sudler, Xun Jiao, "HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks". 27th IEEE Real-Time and Embedded Technology and Applications Symposium (**RTAS**), Virtual Conference, 2021.
+  - Ruixuan Wang, Fanxin Kong, Hasshi Sudler, Xun Jiao, "HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks". [PDF](http://www.ece.villanova.edu/~xjiao/paper/RTAS21.pdf) 27th IEEE Real-Time and Embedded Technology and Applications Symposium (**RTAS**), Virtual Conference, 2021.
 
   - Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC21.pdf) 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2021.
   
