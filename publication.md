@@ -11,7 +11,7 @@
 
   - Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC21.pdf) 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2021.
   
- - Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, “Workload-Aware Approximate Computing Configuration”, [PDF](http://www.ece.villanova.edu/~xjiao/paper/DATE21.pdf) IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2021.
+ - Dongning Ma, Rahul Thapa, Xingjian Wang, Cong Hao and Xun Jiao, “Workload-Aware Approximate Computing Configuration”, [PDF](http://www.ece.villanova.edu/~xjiao/paper/DATE21.pdf) IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2021. [Code](https://github.com/ThapaRahul/DETAIL-Input-Aware-CodeBase)
 
 
 ## 2020
