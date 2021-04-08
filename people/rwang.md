@@ -1,4 +1,4 @@
-## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) 
+## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # Richard Wang
 Ph.D. Candidate (Since 2021 Spring) [[CV]](../asset/rwang_cv.pdf)
