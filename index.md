@@ -1,4 +1,4 @@
-## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) 
+## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
 * [03/2021] [**Paper**] Our paper on AI-based anomaly detection is accepted by Brief Industry Paper Track (BIP) of IEEE RTAS. 
