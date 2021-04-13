@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [04/2021] [**Paper**] Paper on dynamic delay modeling of circuits is accepted to IEEE TCAD!
 * [03/2021] [**Paper**] Our paper on AI-based anomaly detection is accepted by Brief Industry Paper Track (BIP) of IEEE RTAS. 
 * [03/2021] [**Grant**] Our project on Safe Brain-inspired AI is funded by Villanova University Grant program.
 * [02/2021] [**Grant**] Our project on Deep Learning Hardware Accelerator is funded by Small Research Grant Pilot Program of Villanova University. 
