@@ -46,7 +46,7 @@ Breda Marie Brady, Austin Hunt, Jacod Bonanotte, Justin Apun. (Topic: IoT-based 
 
 Kevin Key,  William Brown, Anthony Etim, Jordan Pauls (Senior Capstone Project: Deep Learning on Hardware Accelerator)
 
-Elyse Spinelli, Kevin Zachary, Kefan Han, Hongbo Sun (Senior Capstone Project: Exploring Hyperdimensional Computing-based Artificial Intelligence) (Brian Anderson Award)
+Elyse Spinelli, Kevin Zachary, Kefan Han, Hongbo Sun (Senior Capstone Project: Exploring Hyperdimensional Computing-based Artificial Intelligence) (**Brian Anderson Award**)
 
 Ian Birn, Caroline Maclaren, Benjamin Lucas, Andrew Osburn ([L3Harris Innovation Project: NeuroLanguage: Brain-Inspired Computing for Language Recognition](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/studentsAlumni/INNOVATE-presentations.html))
 
