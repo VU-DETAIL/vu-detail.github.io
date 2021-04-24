@@ -19,18 +19,26 @@ Mauro Sanchirico
 
 Rahul Thapa
 
-Oluwasola Dugbo (Villanova First-Year Match Research Scholarship) 
+Oluwasola Dugbo ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
 Kennedy Cornish ([Clare Boothe Luce Engineering Scholars Program](https://www.hluce.org/news/articles/grant-support-research-mentorship-opportunities-female-engineering-students/)) 
+
+Duncan Smith ([Villanova Undergraduate Research Fellows (VURF)](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-undergraduate-research-fellows-vurf.html))
 
 
 ### Alumni
 
+Andrew Osburn ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
+
+Hongbo Sun (Now M.S. at CMU)
+
+Siyu Shen (Now M.S. at Brown University)
+
 Vu Tran (Now at: Embedded Firmware Engineer at Pergamon Corp)
 
-Shenda Huang (Villanova Match Research Program for First Year Students)
+Shenda Huang ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
-Xingjian Wang (Villanova Undergraduate Research Fellowship)
+Xingjian Wang ([Villanova Undergraduate Research Fellows (VURF)](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-undergraduate-research-fellows-vurf.html))
 
 Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)
 
@@ -42,8 +50,5 @@ Elyse Spinelli, Kevin Zachary, Kefan Han, Hongbo Sun (Senior Capstone Project: E
 
 Ian Birn, Caroline Maclaren, Benjamin Lucas, Andrew Osburn ([L3Harris Innovation Project: NeuroLanguage: Brain-Inspired Computing for Language Recognition](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/studentsAlumni/INNOVATE-presentations.html))
 
-Andrew Osburn (Villanova Match Research Program for First Year Students)
 
-Hongbo Sun (Now M.S. at CMU)
 
-Siyu Shen (Now M.S. at Brown University)
