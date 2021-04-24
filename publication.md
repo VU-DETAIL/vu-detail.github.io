@@ -1,4 +1,4 @@
-## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
+## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) | [Artifact](./artifact) 
 
 ## 2021
 
