@@ -4,6 +4,8 @@
 
 ### Journal
 
+  -  Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
+
   - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, arXiv preprint, 2021. (Submitted to TNNLS) [PDF](https://arxiv.org/abs/2007.06226)
 
 ### Conference
