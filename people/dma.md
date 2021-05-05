@@ -31,10 +31,10 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Honors
 1. IGSC 2020 NSF Student Support Grant 
-1. DAC 2020 A. Richard Newton Young Student Fellow Program
+1. DAC 2020 A. Richard Newton Young Student Fellow 
 1. VTS'20 Student Activities Program (Supported by NSF)
-1. IGSC 2019 NSF Student Travel Support ($1000)
-1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant ($500, sponsored by Microsoft)
+1. IGSC 2019 NSF Student Travel Support
+1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant (Sponsored by Microsoft)
 
 
 ## Other Activities
