@@ -11,11 +11,19 @@
 [Sizhe Zhang](./people/szhang)
 
 ### Master Students
+Lauren Scalice
+
+Yujia Zhang
+
+Sean Lane
+
 Bikal Lamichhane
 
 Mauro Sanchirico 
 
 ### Undergraduate Students
+
+Caroline Maclaren
 
 Rahul Thapa
 
