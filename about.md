@@ -11,4 +11,4 @@ Led by [Dr. Xun Jiao](http://www.ece.villanova.edu/~xjiao/), assistant professor
 [Github](https://github.com/VU-DETAIL/vu-detail.github.io)
 
 
-Copyright @ 2018-2019 Dependable, Efficient, and Intelligent Computing Lab (DETAIL). 
+Copyright @ 2018-2021 Dependable, Efficient, and Intelligent Computing Lab (DETAIL). 
