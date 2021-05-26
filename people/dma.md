@@ -1,6 +1,6 @@
 ## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) | [Artifact](../artifact) 
 
-![](../asset/dma2.jfif)
+<img src="../asset/dma2.jfif" alt="Dongning Ma" width="600">
 
 # Dongning Ma
 Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_CV.pdf  | width=200)
