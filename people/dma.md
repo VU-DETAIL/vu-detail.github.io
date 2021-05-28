@@ -34,9 +34,10 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
 
 ### Honors
+1. ISVLSI 2021 Student Travel Grant Award (supported by NSF)
 1. IGSC 2020 NSF Student Support Grant 
 1. DAC 2020 A. Richard Newton Young Student Fellow 
-1. VTS'20 Student Activities Program (Supported by NSF)
+1. VTS'20 Student Activities Program (supported by NSF)
 1. IGSC 2019 NSF Student Travel Support
 1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant (Sponsored by Microsoft)
 
@@ -61,4 +62,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-
+Last updated: 2020.05.28
