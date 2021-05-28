@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF supported student travel grant award to participate ISVLSI 2021! 
 * [05/2021] [**Paper**] Two papers on hyperdimensional computing are accepted to ISVLSI 2021!
 * [04/2021] [**Paper**] Paper on dynamic delay modeling of circuits is accepted to IEEE TCAD!
 * [03/2021] [**Paper**] Our paper on AI-based anomaly detection is accepted by Brief Industry Paper Track (BIP) of IEEE RTAS. 
