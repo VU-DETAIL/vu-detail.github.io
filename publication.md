@@ -4,11 +4,16 @@
 
 ### Journal
 
-  -  Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
+  - Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
 
   - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, arXiv preprint, 2021. (Submitted to TNNLS) [PDF](https://arxiv.org/abs/2007.06226)
 
 ### Conference
+
+  - Rahul Thapa, Dongning Ma, Xun Jiao, “HDXplore: Automated Differential Testing of Brain-Inspired Hyperdimensional Computing”. 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/HDXplore.pdf)
+
+  - Rahul Thapa, Bikal Lamichhane, Dongning Ma, Xun Jiao, "SpamHD: Efficient Text Spam Detection Using Brain-Inspired Hyperdimensional Computing". 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SpamHD.pdf)
+
   - Ruixuan Wang, Fanxin Kong, Hasshi Sudler, Xun Jiao, "HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks". 27th IEEE Real-Time and Embedded Technology and Applications Symposium (**RTAS**), Virtual Conference, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/RTAS21.pdf)
 
   - Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/DAC21.pdf)
