@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [special issue "Brain-Inspired Hyperdimensional Computing: Algorithms, Models, and Architectures"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures) on Frontiers in Neuroscience - Neuromorphic Engineering. Please consider to submit!  
 * [06/2021] [**Paper**] Invited paper on "Robust Hyperdimensional Computing" to appear in IEEE ASAP 2021!
 * [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF supported student travel grant award to participate ISVLSI 2021! 
 * [05/2021] [**Paper**] Two papers on hyperdimensional computing are accepted to ISVLSI 2021!
