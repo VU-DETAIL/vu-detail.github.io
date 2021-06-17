@@ -1,6 +1,7 @@
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [06/2021] [**Paper**] Invited paper on "Robust Hyperdimensional Computing" to appear in IEEE ASAP 2021!
 * [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF supported student travel grant award to participate ISVLSI 2021! 
 * [05/2021] [**Paper**] Two papers on hyperdimensional computing are accepted to ISVLSI 2021!
 * [04/2021] [**Paper**] Paper on dynamic delay modeling of circuits is accepted to IEEE TCAD!
