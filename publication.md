@@ -10,6 +10,8 @@
 
 ### Conference
 
+  - Sizhe Zhang, Ruixuan Wang, Jeff (Jun) Zhang, Abbas Rahimi, Xun Jiao, "Assessing Robustness of Hyperdimensional Computing Against Errors in Associative Memory". The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), Virtual, 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ASAP21.pdf)
+ 
   - Rahul Thapa, Dongning Ma, Xun Jiao, “HDXplore: Automated Differential Testing of Brain-Inspired Hyperdimensional Computing”. 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/HDXplore.pdf)
 
   - Rahul Thapa, Bikal Lamichhane, Dongning Ma, Xun Jiao, "SpamHD: Efficient Text Spam Detection Using Brain-Inspired Hyperdimensional Computing". 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SpamHD.pdf)
