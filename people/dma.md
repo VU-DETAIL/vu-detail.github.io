@@ -11,6 +11,8 @@ Villanova University
 
 Email: dma2@villanova.edu 
 
+> "Every research paper in this universe is either a potato or not a potato."
+
 ## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn).
 ## Research & Publication
