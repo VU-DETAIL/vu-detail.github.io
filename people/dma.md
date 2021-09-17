@@ -3,7 +3,7 @@
 <img src="../asset/dma2.jfif" alt="Dongning Ma" width="300">
 
 # Dongning Ma
-Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_CV.pdf) [[Google Scholar](https://scholar.google.com/citations?user=XlJuTdcAAAAJ&hl=en) [[LinkedIn](https://www.linkedin.com/in/dongning-ma-73ab5b185/)
+Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_CV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=XlJuTdcAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/dongning-ma-73ab5b185/)
 
 Department of Electrical and Computer Engineering
 
