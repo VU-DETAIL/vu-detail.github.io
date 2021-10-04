@@ -1,3 +1,6 @@
+---
+title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
+---
 ## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) | [Artifact](../artifact) 
 
 <img src="../asset/dma2.jfif" alt="Dongning Ma" width="300">
