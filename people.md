@@ -13,13 +13,9 @@
 ### Master Students
 Lauren Scalice
 
-Yujia Zhang
-
 Sean Lane
 
 Bikal Lamichhane
-
-Mauro Sanchirico 
 
 ### Undergraduate Students
 
@@ -35,6 +31,8 @@ Duncan Smith ([Villanova Undergraduate Research Fellows (VURF)](https://www1.vil
 
 
 ### Alumni
+
+Mauro Sanchirico (Now research engineer at Lockheed Martin)
 
 Andrew Osburn ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
