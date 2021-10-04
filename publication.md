@@ -7,6 +7,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Journal
 
+  - Xiaolong Guo, Song Han, X. Sharon Hu, Xun Jiao, Yier Jin, Fanxin Kong, and Michael Lemmon. "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision (Special Session Paper)". International Conference on Embedded Software Companion (EMSOFT’21 Companion), 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ESWEEK2021_Special_Session%20(9).pdf)
+
   - Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
 
   - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, arXiv preprint, 2021. (Submitted to TNNLS) [PDF](https://arxiv.org/abs/2007.06226)
