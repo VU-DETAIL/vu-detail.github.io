@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [10/2021] [**Student**] Ph.D. student Dongning Ma is accepted to the DAC 2021 Young Fellow Program!
+* [10/2021] [**Student**] Ph.D. student Dongning Ma and Ruixuan Wang are accepted to the DAC 2021 Young Fellow Program! 
 * [10/2021] [**Paper**] Invited paper on “Scalable IoT Systems” to appear in ACM ESWEEK 2021!
 * [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for DAC 2022. 
 * [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF panel.  
