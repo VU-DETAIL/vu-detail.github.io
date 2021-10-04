@@ -2,9 +2,13 @@
 
 # News
 * [10/2021] [**Student**] Ph.D. student Dongning Ma is accepted to the DAC 2021 Young Fellow Program!
+* [10/2021] [**Paper**] Invited paper on “Scalable IoT Systems” to appear in ACM ESWEEK 2021!
+* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for DAC 2022. 
+* [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF panel.  
+* [09/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at ECE department in Temple University. 
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [special issue "Brain-Inspired Hyperdimensional Computing: Algorithms, Models, and Architectures"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures) on Frontiers in Neuroscience - Neuromorphic Engineering. Please consider to submit!  
 * [06/2021] [**Paper**] Invited paper on "Robust Hyperdimensional Computing" to appear in IEEE ASAP 2021!
-* [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF supported student travel grant award to participate ISVLSI 2021! 
+* [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF support for student to participate ISVLSI 2021! 
 * [05/2021] [**Paper**] Two papers on hyperdimensional computing are accepted to ISVLSI 2021!
 * [04/2021] [**Paper**] Paper on dynamic delay modeling of circuits is accepted to IEEE TCAD!
 * [03/2021] [**Paper**] Our paper on AI-based anomaly detection is accepted by Brief Industry Paper Track (BIP) of IEEE RTAS. 
