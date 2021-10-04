@@ -3,7 +3,7 @@
 ## Brain-Inspired Artificial Intelligence
 
 
-## Big data and Machine Learning Processing
+## Hardware-Accelerated Machine Learning
 The continuous growth of big data regime and machine learning applications has posed an overwhelming increase in computing demand. How to enable high-performance/low-power/real-time processing of such emerging workloads, without sacrificing the quality of service (QoS), has, therefore, become a crucial question to computing industry. We adopt a software-hardware codesign approach to tackle this problem:
 
 *	We design novel processing-in-memory platforms that can significantly reduce the computation overhead in deep neural networks [DATE'18, GLSVLSI'20]. 
