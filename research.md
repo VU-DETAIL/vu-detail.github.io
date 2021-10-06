@@ -3,7 +3,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [People](./people) | [**Research**](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
-## Brain-Inspired Artificial Intelligence
+## Brain-Inspired Computing
 
 
 ## Hardware-Accelerated Machine Learning
