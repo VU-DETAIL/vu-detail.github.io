@@ -11,7 +11,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [09/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at ECE department in Temple University. 
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [special issue "Brain-Inspired Hyperdimensional Computing: Algorithms, Models, and Architectures"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures) on Frontiers in Neuroscience - Neuromorphic Engineering. Please consider to submit!  
 * [06/2021] [**Paper**] Invited paper on "Robust Hyperdimensional Computing" to appear in IEEE ASAP 2021!
-* [05/2021] [**Student**] Ph.D. student Dongning Ma receives NSF support for student to participate ISVLSI 2021! 
 * [05/2021] [**Paper**] Two papers on hyperdimensional computing are accepted to ISVLSI 2021!
 * [04/2021] [**Paper**] Paper on dynamic delay modeling of circuits is accepted to IEEE TCAD!
 * [03/2021] [**Paper**] Our paper on AI-based anomaly detection is accepted by Brief Industry Paper Track (BIP) of IEEE RTAS. 
@@ -24,7 +23,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [11/2020] [**Grant**] Our project is funded by L3 Harris. Thank you, L3 Harris! 
 * [11/2020] [**Paper**] Paper on Approximate Computing is accepted to DATE 2021! (24% acceptance rate) 
 * [10/2020] [**Student**] Ruixuan (Richard) Wang will join DETAIL as a new PhD student. Welcome, Richard!
-* [10/2020] [**Student**] Ph.D. student Dongning Ma receives NSF Student Support Award to attend IGSC 2020!
 * [08/2020] [**Grant**] Collaborative project on smart, secure, and scalable IoT system is funded by National Science Foundation!
 * [08/2020] [**Award**] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
 * [08/2020] [**Award**] Our paper at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
@@ -49,8 +47,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [11/2019] [**Service**] Xun Jiao will serve on the TPC of DAC 2020. 
 * [11/2019] [**Service**] Xun Jiao will co-organize DACPS workshop, co-located with DAC 2020. 
 * [11/2019] [**Service**] Xun Jiao will serve on the TPC of the ACM Workshop on Automotive and Aerial Vehicle Security (AutoSec), in conjunction with ACM CODASPY 2020. 
-* [09/2019] [**Student**] Ph.D. student Dongning Ma receives NSF Student Travel Grant ($1000) to attend IGSC 2019 to present his research!
-* [09/2019] [**Student**] Ph.D. student Dongning Ma's work on approximate computing is accepted to the ACM Student Research Competition and he will compete for prizes at ESWEEK'19 with a Travel Grant support ($500)
+* [09/2019] [**Student**] Ph.D. student Dongning Ma's work on approximate computing is accepted to the ACM Student Research Competition and he will compete for prizes at ESWEEK'19 with a Travel Grant support!
 * [07/2019] [**Award**] Paper on Polar: Function Code Aware Fuzz Testing of ICS Protocol is accepted to EMSOFT 2019 as a **Best Paper Candidate**!
 * [07/2019] [**Paper**] Paper on DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits is accepted to CODES+ISSS 2019!
 * [06/2019] [**Award**] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received **Best Paper Award**!
@@ -65,7 +62,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [02/2019] [**Grant**] Xun Jiao receives University Summer Grant (USG) from Villanova University to work on efficient deep learning accelerator.
 * [02/2019] [**Service**] Xun Jiao has served as the guest editor on the Special Issue on Dependable Cyber Physical Systems in Journal of Systems Architecture. Please consider to submit!
 * [01/2019] [**Grant**] Received the Donation of (1) Titan V GPU from NVIDIA Corporation for Deep Learning Hardware Research! 
-* [01/2019] [**Student**] Dongning Ma will be with DETAIL as a new Ph.D. student starting from 01/14/2019
+* [01/2019] [**Student**] Dongning Ma will be with DETAIL as a new Ph.D. student starting from 01/2019, welcome!
 * [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)!
 * [12/2018] [**Service**] Xun Jiao served on TPC in LCTES 2019. Please consider to submit!
 * [11/2018] [**Service**] Xun Jiao served on TPC in International Conference on Omni-layer Intelligent Systems. Please consider submit!
