@@ -3,24 +3,25 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
+# Current Members
 ## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
-### Ph.D. Students
+## Ph.D. Students
 [Dongning Ma](./people/dma)
 
 [Richard (Ruixuan) Wang](./people/rwang)
 
 [Sizhe Zhang](./people/szhang)
 
-### Master Students
+## Master Students
 Lauren Scalice
 
 Sean Lane
 
 Bikal Lamichhane
 
-### Undergraduate Students
+## Undergraduate Students
 
 Caroline Maclaren
 
@@ -33,9 +34,13 @@ Kennedy Cornish ([Clare Boothe Luce Engineering Scholars Program](https://www.hl
 Duncan Smith ([Villanova Undergraduate Research Fellows (VURF)](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-undergraduate-research-fellows-vurf.html))
 
 
-### Alumni
+# Alumni
+
+## Graduate Students
 
 Mauro Sanchirico (Now research engineer at Lockheed Martin)
+
+## Undergraduate Students
 
 Andrew Osburn ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
