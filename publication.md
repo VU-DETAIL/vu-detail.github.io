@@ -13,7 +13,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Conference
 
-  - Xiaolong Guo, Song Han, X. Sharon Hu, Xun Jiao, Yier Jin, Fanxin Kong, and Michael Lemmon. "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision". International Conference on Embedded Software Companion (**EMSOFT**), 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ESWEEK2021_Special_Session%20(9).pdf)
+  - Xiaolong Guo, Song Han, X. Sharon Hu, Xun Jiao, Yier Jin, Fanxin Kong, and Michael Lemmon. "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision". International Conference on Embedded Software (**EMSOFT**), 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ESWEEK2021_Special_Session%20(9).pdf)
 
   - Sizhe Zhang, Ruixuan Wang, Jeff (Jun) Zhang, Abbas Rahimi, Xun Jiao, "Assessing Robustness of Hyperdimensional Computing Against Errors in Associative Memory". The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), Virtual, 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ASAP21.pdf)
  
