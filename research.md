@@ -4,7 +4,11 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [Home](./) | [People](./people) | [**Research**](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 ## Brain-Inspired Computing
+Hyperdimensional computing (HDC), also known as vector symbolic architectures (VSA), was introduced as an alternative computational model mimicking the “human brain” at
+the functionality level. Compared with DNNs, the advantages of HDC include smaller model size, less computation cost, and one/few-shot learning, making it a promising alternative computing paradigm. We explore this novel neuromorphic computing in multiple aspects:
 
+* We design HDC systems for different (emerging) application domains, such as NLP, sensor attack detection, and drug discovery. [ISVLSI'21, RTAS'21]
+* We focus on processing of HDC algorithms and attempt to enhance the energy efficiency, robustness and reliability. [DAC'21, ASAP'21, ISVLSI'21] 
 
 ## Hardware-Accelerated Machine Learning
 The continuous growth of big data regime and machine learning applications has posed an overwhelming increase in computing demand. How to enable high-performance/low-power/real-time processing of such emerging workloads, without sacrificing the quality of service (QoS), has, therefore, become a crucial question to computing industry. We adopt a software-hardware codesign approach to tackle this problem:
