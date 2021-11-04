@@ -69,4 +69,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2020.05.28
+Last updated: 2021.10.19
