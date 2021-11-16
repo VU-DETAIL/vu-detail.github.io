@@ -3,13 +3,23 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) | [Artifact](./artifact) 
 
+## 2022
+
+### Journal
+
+  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. [PDF]()
+
+### Conference
+
+  - Ruixuan Wang, Xun Jiao, "PoisonHD: Poison Attack on Brain-Inspired Hyperdimensional Computing", IEEE/ACM Design, Automation & Test in Europe Conference (DATE), 2022.
+  - Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin and Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling", IEEE/ACM Design, Automation & Test in Europe Conference (DATE), 2022. 
+
+
 ## 2021
 
 ### Journal
 
   - Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
-
-  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj.  “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, arXiv preprint, 2021. (Submitted to TNNLS) [PDF](https://arxiv.org/abs/2007.06226)
 
 ### Conference
 
