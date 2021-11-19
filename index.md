@@ -4,9 +4,9 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [11/2021] [**Paper**] One paper on neural network verification/testing is accepted to IEEE Transactions on Neural Networks and Learning Systems!
-* [11/2021] [**Paper**] Two papers on security and robustness of hyperdimensional computing are accepted to DATE 2022!
-* [10/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at SEElab@UC San Diego.
+* [11/2021] [**Paper**] One paper on neural network verification/testing is accepted to [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)!
+* [11/2021] [**Paper**] Two papers on security and robustness of hyperdimensional computing are accepted to [DATE 2022](https://www.date-conference.com/)!
+* [10/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [SEElab](http://varys.ucsd.edu/)@UC San Diego.
 * [10/2021] [**Student**] Ph.D. student Dongning Ma, Ruixuan Wang and Sizhe Zhang are accepted to the [DAC 2021 Young Fellow Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
 * [10/2021] [**Paper**] Invited paper on “Scalable IoT Systems” to appear in ACM ESWEEK 2021!
 * [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for DAC 2022. 
