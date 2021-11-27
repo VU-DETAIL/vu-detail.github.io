@@ -12,7 +12,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 [Richard (Ruixuan) Wang](./people/rwang)
 
-[Sizhe Zhang](./people/szhang)
+[Sizhe Zhang](https://vu-sizhe-zhang.github.io/)
 
 ## Master Students
 Lauren Scalice
