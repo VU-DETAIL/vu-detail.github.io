@@ -7,19 +7,19 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Journal
 
-  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. [PDF]()
+  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [PDF]()
 
 ### Conference
 
-  - Ruixuan Wang, Xun Jiao, "PoisonHD: Poison Attack on Brain-Inspired Hyperdimensional Computing", IEEE/ACM Design, Automation & Test in Europe Conference (DATE), 2022.
-  - Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin and Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling", IEEE/ACM Design, Automation & Test in Europe Conference (DATE), 2022. 
+  - Ruixuan Wang, Xun Jiao, "PoisonHD: Poison Attack on Brain-Inspired Hyperdimensional Computing", IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DATE2022_PoisonHD.pdf)
+  - Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin and Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling", IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DATE2022_HDVolt.pdf)
 
 
 ## 2021
 
 ### Journal
 
-  - Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
+  - Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
 
 ### Conference
 
@@ -124,5 +124,5 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
   - Hehua Zhang, Yu Jiang, Xun Jiao, Xiaoyu Song, William N.Hung, and Ming Gu. "Reliability Analysis of PLC Systems by Bayesian Network". in Proc. International Conference on Software Security and Reliability (**SERE**), 2012. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SERE.pdf)
 
 ## Presentations
-  - "Approximate Computing for the Internet of Things: from Circuits to Applications", The Fourth IEEE International Workshop on Design   Automation for Cyber-Physical Systems (**DACPS**), Las Vegas, USA, 2019. 
+  - "Approximate Computing for the Internet of Things: from Circuits to Applications", The Fourth IEEE International Workshop on Design Automation for Cyber-Physical Systems (**DACPS**), Las Vegas, USA, 2019. 
   [Slides](http://www.ece.villanova.edu/~xjiao/paper/DACPS.pdf)
