@@ -107,6 +107,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
   - Xun Jiao, Vahideh Akhlaghi, Yu Jiang, and Rajesh Gupta, "Energy-Efficient Neural Networks using Approximate Computation Reuse". IEEE/ACM Design, Automation, and Test in Europe (**DATE**), Dresden, Germany, 2018. [PDF](http://mesl.ucsd.edu/pubs/Xun_DATE2018.pdf)
 
+  - Mingzhe Wang, Jie Liang, Yuanliang Chen, Yu Jiang, Xun Jiao, Han Liu, Xibin Zhao, Jiaguang Sun, "SAFL: increasing and accelerating testing coverage with symbolic execution and guided fuzzing". in Proc. International Conference on Software Engineering (**ICSE-Tool**), Gothenburg, Sweden, 2018. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICSE18.pdf)
+
   - Xun Jiao, Mulong Luo, Jeng-Hau Lin, and Rajesh Gupta, "An Assessment of Vulnerability of Hardware Neural Networks to Dynamic Voltage and Temperature Variations". in Proc. IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), Irvine, USA, 2017. [PDF](http://mesl.ucsd.edu/pubs/Xun_ICCAD17.pdf)
 
   - Xun Jiao, Vincent Camus, Mattia Cacciotti, Yu Jiang, Christian Enz, and Rajesh Gupta, "Combining Structural and Timing Error in Overclocked Inexact Speculative Adders". in Proc. IEEE/ACM Design, Automation, and Test in Europe (**DATE**), Lausanne, Switzerland, 2017. [PDF](http://mesl.ucsd.edu/pubs/Xun_DATE17b.pdf)
@@ -114,12 +116,10 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
   - Xun Jiao, Yu Jiang, Abbas Rahimi, and Rajesh Gupta, "SLoT: A Supervised Learning Model to Predict Dynamic Timing Errors of Functional Units". in Proc. IEEE/ACM Design, Automation, and Test in Europe (**DATE**), Lausanne, Switzerland, 2017. [PDF](http://mesl.ucsd.edu/pubs/Xun_DATE17a.pdf)
 
   - Xun Jiao, Yu Jiang, Abbas Rahimi, and Rajesh Gupta, "WILD: A Workload-Based Learning Model to Predict Dynamic Delay of Functional Units". in Proc. IEEE International Conference on Computer Design (**ICCD**), Phoenix, USA, 2016. [PDF](http://mesl.ucsd.edu/pubs/Xun_ICCD16.pdf)
+
+  - Xun Jiao, Abbas Rahimi, Balakrishnan Narayanaswamy, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta, "Supervised Learning Based Model for Predicting Variability-Induced Timing Errors". in Proc. IEEE International NEW Circuits And Systems (**NEWCAS**) conference, Grenoble, France, 2015. [PDF](http://mesl.ucsd.edu/pubs/Xun_NEWCAS15.pdf)
   
   - Yu Jiang, Hehua Zhang, Xun Jiao, Xiaoyu Song, William N.Hung, Ming Gu, and Jiaguang Sun, "Uncertain Model and Algorithm for Hardware/Software Partitioning". in Proc. IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), 2012. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ISVLSI.pdf)
-  
-  - Mingzhe Wang, Jie Liang, Yuanliang Chen, Yu Jiang, Xun Jiao, Han Liu, Xibin Zhao, Jiaguang Sun, "SAFL: increasing and accelerating testing coverage with symbolic execution and guided fuzzing". in Proc. International Conference on Software Engineering (**ICSE-Tool**), Gothenburg, Sweden, 2018. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICSE18.pdf)
-  
-  - Xun Jiao, Abbas Rahimi, Balakrishnan Narayanaswamy, Hamed Fatemi, Jose Pineda de Gyvez, and Rajesh Gupta, "Supervised Learning Based Model for Predicting Variability-Induced Timing Errors". in Proc. IEEE International NEW Circuits And Systems (**NEWCAS**) conference, Grenoble, France, 2015. [PDF](http://mesl.ucsd.edu/pubs/Xun_NEWCAS15.pdf)
 
   - Hehua Zhang, Yu Jiang, Xun Jiao, Xiaoyu Song, William N.Hung, and Ming Gu. "Reliability Analysis of PLC Systems by Bayesian Network". in Proc. International Conference on Software Security and Reliability (**SERE**), 2012. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SERE.pdf)
 
