@@ -41,7 +41,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Honors
 1. IGSC 2021 NSF Student Support Grant
-1. DAC 2021 Young Fellow Program
+1. DAC 2021 Young Fellow Program with the **Best 2-Minute Research Video Award**!
 1. ISVLSI 2021 Student Travel Grant Award (supported by NSF)
 1. IGSC 2020 NSF Student Support Grant 
 1. DAC 2020 A. Richard Newton Young Student Fellow 
@@ -72,4 +72,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2021.12.13
+Last updated: 2021.12.22
