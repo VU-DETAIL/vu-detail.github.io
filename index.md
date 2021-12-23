@@ -4,6 +4,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea), talking about our work on using AI/ML for circuit/hardware simulation.  
+* [12/2021] [**Students**] Ph.D. student Dongning Ma receives [Best 2-Minute Research Video Award](https://www.youtube.com/watch?v=N-Aq0mvJTck) at the [DAC 2021 Young Fellow Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program). 
 * [11/2021] [**Paper**] One paper on neural network verification/testing is accepted to [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)!
 * [11/2021] [**Paper**] Two papers on security and robustness of hyperdimensional computing are accepted to [DATE 2022](https://www.date-conference.com/)!
 * [10/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [SEElab](http://varys.ucsd.edu/)@UC San Diego.
