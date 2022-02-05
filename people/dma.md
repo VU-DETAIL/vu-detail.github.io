@@ -26,7 +26,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Conference
 1. Dongning Ma, Xue Qin, Xun Jiao, "AxBy-ViT: Reconfigurable Approximate Computation Bypass for Vision Transformers". The 23rd International Symposium on Quality Electronic Design (**ISQED**), Virtual, California, 2022
-1. Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin, Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling". 2022 Design, Automation and Test in Europe Conference (**DATE**), Antwerp, Belgium, 2022
+1. Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin, Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling". 2022 Design, Automation and Test in Europe Conference (**DATE**), Antwerp, Belgium, 2022 **(Best Paper Award Candidate)**
 1. Rahul Thapa, Dongning Ma, Xun Jiao, "HDXplore: Automated Differential Testing of Brain-Inspired Hyperdimensional Computing". 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021.
 1. Rahul Thapa, Bikal Lamichhane, Dongning Ma, Xun Jiao, "SpamHD: Efficient Text Spam Detection Using Brain-Inspired Hyperdimensional Computing". 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021.
 1. Dongning Ma, Jianmin Guo, Yu Jiang, Xun Jiao, "HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing". 58th 2021 ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2021.
@@ -61,6 +61,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Teaching
 At Villanova University:
+1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Spring 2022)
 1. Teaching Assistant for EGR 1620 - Engineering Programming and Application (Spring 2022)
 1. Teaching Assistant for EGR 1200 - Engineering Interdisciplinary Project I (Fall 2021)
 1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2021)
@@ -74,4 +75,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2021.12.22
+Last updated: 2022.2.5
