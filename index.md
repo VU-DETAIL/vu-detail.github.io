@@ -4,6 +4,9 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [03/2022] [**Paper**] One paper on "Hyperdimensional Computing for Anomaly Detection" is accepted to [DAC 2022](https://www.dac.com/).  
+* [03/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a guest lecture at CSE291 at UC San Diego by Prof. Tajana Rosing. 
+* [02/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [AI-based Simulation](https://www.nafems.org/events/nafems/2022/ai-data-driven-models-and-machine-learning/#:~:text=Machine%20Learning%2Dbased%20Timing%20Error%20Simulation%20of%20Microelectronic%20Circuits%20(Stage%201)) at NAFEMS. 
 * [02/2022] [**Award**] Dr. Xun Jiao receives faculty career development award from College of Engineering!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Award Candidate**!
 * [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea), talking about our work on using AI/ML for circuit/hardware simulation.  
