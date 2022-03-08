@@ -7,7 +7,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Journal
 
-  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [PDF]()
+  - Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [PDF](https://ieeexplore.ieee.org/document/9650758)
 
 ### Conference
 
