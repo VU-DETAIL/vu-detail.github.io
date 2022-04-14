@@ -11,6 +11,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Conference
 
+  - Ruixuan Wang, Xun Jiao, X. Sharon Hu, "ODHD: One-Class Brain-Inspired Hyperdimensional Computing for Outlier Detection", ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DAC2022_ODHD.pdf)
   - Ruixuan Wang, Xun Jiao, "PoisonHD: Poison Attack on Brain-Inspired Hyperdimensional Computing", IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DATE2022_PoisonHD.pdf)
   - Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin and Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling", IEEE/ACM Design, Automation & Test in Europe Conference (**DATE**), 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DATE2022_HDVolt.pdf) **(Best Paper Award Candidate)** 
 
