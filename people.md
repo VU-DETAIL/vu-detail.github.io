@@ -43,7 +43,7 @@ Mauro Sanchirico (**College of Engineering Outstanding Graduate Student Award**)
 
 ## Undergraduate Students
 
-Rahul Thapa
+Rahul Thapa (**Join Univ. of Wisconsin Madison as a PhD student**)
 
 Andrew Osburn ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
