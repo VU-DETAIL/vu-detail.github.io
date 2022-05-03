@@ -23,7 +23,7 @@ Bikal Lamichhane
 
 ## Undergraduate Students
 
-Caroline Maclaren
+Caroline Maclaren (Join Zoom as a summer intern)
 
 Oluwasola Dugbo ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
