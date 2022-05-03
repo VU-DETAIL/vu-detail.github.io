@@ -39,7 +39,7 @@ Xingjian Wang ([Villanova Undergraduate Research Fellows (VURF)](https://www1.vi
 
 ## Graduate Students
 
-Mauro Sanchirico (College of Engineering Outstanding Graduate Student Award; now research engineer at Lockheed Martin)
+Mauro Sanchirico (**College of Engineering Outstanding Graduate Student Award**)
 
 ## Undergraduate Students
 
