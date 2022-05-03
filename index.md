@@ -6,7 +6,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 # News
 * [04/2022] [**Award**] Dr. Xun Jiao received the 2022 IEEE Philadelphia Section Young Electrical Engineer of the Year Award.
 * [03/2022] [**Paper**] One paper on "Hyperdimensional Computing for Anomaly Detection" is accepted to [DAC 2022](https://www.dac.com/).  
-<!--- ([03/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a guest lecture at CSE291 at UC San Diego by Prof. Tajana Rosing.)  -->
 * [02/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [AI-based Simulation](https://www.nafems.org/events/nafems/2022/ai-data-driven-models-and-machine-learning/#:~:text=Machine%20Learning%2Dbased%20Timing%20Error%20Simulation%20of%20Microelectronic%20Circuits%20(Stage%201)) at NAFEMS. 
 * [02/2022] [**Award**] Dr. Xun Jiao receives faculty career development award from College of Engineering!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Award Candidate**!
@@ -16,7 +15,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [11/2021] [**Paper**] Two papers on security and robustness of hyperdimensional computing are accepted to [DATE 2022](https://www.date-conference.com/)!
 * [10/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [SEElab](http://varys.ucsd.edu/)@UC San Diego.
 * [10/2021] [**Student**] Ph.D. student Dongning Ma, Ruixuan Wang and Sizhe Zhang are accepted to the [DAC 2021 Young Fellow Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
-* [10/2021] [**Paper**] Invited paper on “Scalable IoT Systems” to appear in ACM ESWEEK 2021!
 * [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for DAC 2022. 
 * [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF panel.  
 * [09/2021] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at ECE department in Temple University. 
