@@ -4,6 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [04/2022] [**Award**] Dr. Xun Jiao received the 2022 IEEE Philadelphia Section Young Electrical Engineer of the Year Award.
 * [03/2022] [**Paper**] One paper on "Hyperdimensional Computing for Anomaly Detection" is accepted to [DAC 2022](https://www.dac.com/).  
 * [03/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a guest lecture at CSE291 at UC San Diego by Prof. Tajana Rosing. 
 * [02/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [AI-based Simulation](https://www.nafems.org/events/nafems/2022/ai-data-driven-models-and-machine-learning/#:~:text=Machine%20Learning%2Dbased%20Timing%20Error%20Simulation%20of%20Microelectronic%20Circuits%20(Stage%201)) at NAFEMS. 
@@ -40,7 +41,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [07/2020] [**Paper**] Two papers are accepted to EMSOFT 2020.
 * [06/2020] [**Paper**] Paper on approximate computation bypass in neural network and image processing applications is accepted to Euromicro DSD 2020!
 * [06/2020] [**Student**] Ph.D. student Dongning Ma is accepted to the DAC 2020 A. Richard Newton Young Student Fellow Program!
-* [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19.
+* [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the **U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19**.
 * [04/2020] [**Award**] Our paper is selected as a **best paper** of SELSE 2020.  
 * [03/2020] [**Paper**] Paper on the resilience of deep neural networks is accepted to IEEE Design & Test!
 * [03/2020] [**Paper**] Paper on approximate computing for low-power voltage-scaled circuits is accepted to IEEE TCAD!
