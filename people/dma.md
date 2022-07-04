@@ -18,11 +18,13 @@ Email: dma2@villanova.edu
 
 ## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn).
-## Research & Publication
+
+## Publications
 ### Journal
+1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022. (accepted)
 1. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
 1. Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
-1. Dongning Ma, Xun Jiao, WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications, IEEE Embedded Systems Letters (**ESL**), 2019.
+1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
 1. Dongning Ma, Xue Qin, Xun Jiao, "AxBy-ViT: Reconfigurable Approximate Computation Bypass for Vision Transformers". The 23rd International Symposium on Quality Electronic Design (**ISQED**), Virtual, California, 2022
@@ -77,4 +79,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.06.30
+Last updated: 2022.07.04
