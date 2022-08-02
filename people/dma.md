@@ -21,7 +21,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ## Publications
 ### Journal
-1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022. (accepted)
+1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022.
 1. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
 1. Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
 1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
@@ -43,7 +43,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
 
 ### Honors
-1. **2021 (China) National Artificial Intelligence Challenge Finalist (10th / 2434 Teams)**
+1. **2021 (China) National Artificial Intelligence Challenge Finalist (7th / 2434 Teams)**
 1. IGSC 2021 NSF Student Support Grant
 1. DAC 2021 Young Fellow Program with the **Best 2-Minute Research Video Award**!
 1. ISVLSI 2021 Student Travel Grant Award (supported by NSF)
@@ -79,4 +79,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.07.04
+Last updated: 2022.08.02
