@@ -4,6 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [05/2022] [**Service**] Dr. Xun Jiao serves as the TPC member for ICCAD 2022 and ASP-DAC 2022**.
 * [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Philadelphia Section Young Electrical Engineer of the Year Award**.
 * [03/2022] [**Paper**] One paper on "Hyperdimensional Computing for Anomaly Detection" is accepted to [DAC 2022](https://www.dac.com/).  
 * [02/2022] [**Talk**] Dr. Xun Jiao is invited to deliver a talk at [AI-based Simulation](https://www.nafems.org/events/nafems/2022/ai-data-driven-models-and-machine-learning/#:~:text=Machine%20Learning%2Dbased%20Timing%20Error%20Simulation%20of%20Microelectronic%20Circuits%20(Stage%201)) at NAFEMS. 
