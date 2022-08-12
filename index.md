@@ -16,7 +16,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [special issue "Brain-Inspired Hyperdimensional Computing: Algorithms, Models, and Architectures"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures) on Frontiers in Neuroscience - Neuromorphic Engineering. Please consider to submit!  
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of DAC 2021. 
 * [11/2020] [**Grant**] Our project is funded by [L3 Harris](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)! 
-* [08/2020] [**Grant**] Our project on smart, secure, and scalable IoT system is funded by [National Science] Foundation(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
+* [08/2020] [**Grant**] Our project on smart, secure, and scalable IoT system is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
 * [08/2020] [**Award**] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
 * [08/2020] [**Award**] Our paper at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
 * [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the **U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19**.
