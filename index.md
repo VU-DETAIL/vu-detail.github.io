@@ -19,7 +19,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [08/2020] [**Grant**] Our project on smart, secure, and scalable IoT system is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
 * [08/2020] [**Award**] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
 * [08/2020] [**Award**] Our paper at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
-* [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the **U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19**[NEWS](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
+* [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the **U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19** [College News](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
 * [04/2020] [**Award**] Our paper is selected as a **best paper** of SELSE 2020.  
 * [01/2020] [**Service**] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
 * [11/2019] [**Service**] Xun Jiao will serve on the TPC of DAC 2020 and GLSVLSI 2020. 
