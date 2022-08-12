@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [05/2022] [**Grant**] Our project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
+* [05/2022] [**Grant**] Our $500K project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
 * [05/2022] [**Service**] Dr. Xun Jiao serves as the TPC member for [ICCAD 2022](https://iccad.com) and [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/).
 * [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Philadelphia Section Young Electrical Engineer of the Year Award**.
 * [03/2022] [**Paper**] One paper on "Hyperdimensional Computing for Anomaly Detection" is accepted to [DAC 2022](https://www.dac.com/).  
