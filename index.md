@@ -5,7 +5,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # News
 * [05/2022] [**Grant**] Our $500K project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
-* [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com) and [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/).
+* [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
 * [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Philadelphia Section Young Electrical Engineer of the Year Award**.
 * [02/2022] [**Award**] Dr. Xun Jiao receives Junior Faculty Award from College of Engineering!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Award Candidate**!
