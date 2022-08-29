@@ -4,19 +4,20 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [05/2022] [**Grant**] Our $500K project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
+* [08/2022] [**Grant**] Our $400K project on generalizable approximate computing is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)! Collaboration w/ Dr. Callie Hao@Gatech. 
+* [06/2022] [**Grant**] Our $500K project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)! Collaboration w/ civil and geoscience scientists@Villanova. 
 * [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
-* [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Philadelphia Section Young Electrical Engineer of the Year Award**.
-* [02/2022] [**Award**] Dr. Xun Jiao receives Junior Faculty Award from College of Engineering!
+* [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Young Engineer of the Year Award (Philadelphia Section)**.
+* [02/2022] [**Award**] Dr. Xun Jiao receives Junior Faculty Development Award from College of Engineering!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Award Candidate**!
 * [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea), talking about our work on using AI/ML for circuit/hardware simulation.  
 * [10/2021] [**Student**] Ph.D. student Dongning Ma, Ruixuan Wang and Sizhe Zhang are accepted to the [DAC 2021 Young Fellow Program](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
-* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for DAC 2022. 
+* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for [DAC 2022](https://www.dac.com). 
 * [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF panel.  
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [special issue "Brain-Inspired Hyperdimensional Computing: Algorithms, Models, and Architectures"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures) on Frontiers in Neuroscience - Neuromorphic Engineering. Please consider to submit!  
-* [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of DAC 2021. 
-* [11/2020] [**Grant**] Our project is funded by [L3 Harris](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)! 
-* [08/2020] [**Grant**] Our project on smart, secure, and scalable IoT system is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
+* [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of [DAC 2021](https://www.dac.com). 
+* [11/2020] [**Grant**] Our $180K project is funded by [L3 Harris](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)! 
+* [08/2020] [**Grant**] Our $250K planning project on scalable IoT system is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
 * [08/2020] [**Award**] Our EMSOFT paper on firmware cybersecurity vulnerability is nominated for **best paper award**!
 * [08/2020] [**Award**] Our paper at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
 * [04/2020] [**Talk**] Dr. Xun Jiao is invited to present and brief in the **U.S. Congressional House Energy and Commerce Committee regarding project on COVID-19** [College News](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
@@ -27,7 +28,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [06/2019] [**Award**] Paper on Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design is accepted to CPSCOM and received **Best Paper Award**!
 * [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)**!
 * [12/2018] [**Service**] Xun Jiao served on TPC in LCTES 2019.
-* [08/2018] [**CAREER**] Xun Jiao has joined ECE department of Villanova University as tenure-track assistant professor this fall. 
+* [08/2018] [**Fun**] Xun Jiao has joined ECE department of Villanova University as tenure-track assistant professor this fall. 
   
 ## Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Department of Electrical and Computer Engineering, Villanova University
