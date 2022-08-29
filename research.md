@@ -3,14 +3,14 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [People](./people) | [**Research**](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
-## Brain-Inspired Computing
+## Brain-Inspired Hyperdimensional Computing
 Hyperdimensional computing (HDC), also known as vector symbolic architectures (VSA), was introduced as an alternative computational model mimicking the “human brain” at
 the functionality level. Compared with DNNs, the advantages of HDC include smaller model size, less computation cost, and one/few-shot learning, making it a promising alternative computing paradigm. We explore this novel neuromorphic computing in multiple aspects:
 
-* We design HDC systems for different (emerging) application domains, such as NLP, sensor attack detection, and drug discovery. [ISVLSI'21, RTAS'21]
-* We focus on processing of HDC algorithms and attempt to enhance the energy efficiency, robustness and reliability. [DAC'21, ASAP'21, ISVLSI'21] 
+* We design HDC systems for different (emerging) application domains, such as NLP, sensor attack detection, and drug discovery. [DAC'22, ISVLSI'21, RTAS'21]
+* We focus on processing of HDC algorithms and attempt to enhance the energy efficiency, robustness and reliability. [ICCAD'22, DATE'22, DAC'21, ASAP'21, ISVLSI'21] 
 
-## Hardware-Accelerated Machine Learning
+## AI/Machine Learning Acceleration and Efficiency
 The continuous growth of big data regime and machine learning applications has posed an overwhelming increase in computing demand. How to enable high-performance/low-power/real-time processing of such emerging workloads, without sacrificing the quality of service (QoS), has, therefore, become a crucial question to computing industry. We adopt a software-hardware codesign approach to tackle this problem:
 
 *	We design novel processing-in-memory platforms that can significantly reduce the computation overhead in deep neural networks [DATE'18, GLSVLSI'20]. 
@@ -31,6 +31,6 @@ Power efficiency has become a top priority for both high-performance computing s
 
 *	Circuit-layer: We perform careful and detailed dynamic voltage and frequency scaling (DVFS) with an unprecedented consideration of their effects in circuit robustness to timing violations [DAC'20, TC'18, DATE'17, ICCD'16, ESL'19, CDOES+ISSS'19]. We also design approximate circuits with less power consumption [DATE'17].  
 
-*	Architecture-layer: We propose novel computer architecture design to enable low-power processing of emerging workloads. We design FeFET-based Ternary Content Addressable Memory (TCAM) and Bloom filter to save 30% more energy on AMD GPU [DATE'18, GLSVLSI'20] for neural networks. 
+*	Architecture-layer: We propose novel computer architecture design to enable low-power processing of emerging workloads. We design FeFET-based Ternary Content Addressable Memory (TCAM) and Bloom filter to save 30% more energy on AMD GPU [ISQED'22, DATE'18, GLSVLSI'20] for neural networks. 
 
 *	System-layer: We propose a novel workload-aware frequency scaling approach for embedded systems [ESL'19]. 
