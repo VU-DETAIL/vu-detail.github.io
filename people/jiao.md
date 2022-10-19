@@ -7,14 +7,16 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # Xun Jiao
 **Assistant Professor** [[CV]](../asset/jiao.pdf)
+
 Department of Electrical and Computer Engineering
 
 **Director**
+
 [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](vu-detail.github.io)
+
 Villanova University 
 
-Office: Tolentine 415
-Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu) 
+Office: Tolentine 415 | Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu) 
 
 ## About
 Xun Jiao has been an assistant professor in [ECE department](https://www1.villanova.edu/university/engineering/academic-programs/departments/electrical-computer.html) of [Villanova University](https://www1.villanova.edu/university.html) since 2018. He leads the [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](vu-detail.github.io) at Villanova University. Before that, he obtained his Ph.D. degree from the [Department of Computer Science and Engineering](https://cse.ucsd.edu/) at the [University of California, San Diego](https://www.ucsd.edu/) in 2018. He earned a dual first class Bachelor degree in Telecommunication Engineering with Management from Joint Programme of Queen Mary University of London and Beijing University of Posts and Telecommunications in 2013.
