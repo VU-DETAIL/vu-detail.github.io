@@ -27,6 +27,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+1. Dongning Ma, Rahul Thapa, Xun Jiao, "MoleHD: Efficient Drug Discovery using Brain Inspired Hyperdimensional Computing". 2022 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), Las Vegas, Nevada, 2022
 1. Dongning Ma, Xue Qin, Xun Jiao, "AxBy-ViT: Reconfigurable Approximate Computation Bypass for Vision Transformers". The 23rd International Symposium on Quality Electronic Design (**ISQED**), Virtual, California, 2022
 1. Sizhe Zhang, Ruixuan Wang, Dongning Ma, Jeff Jun Zhang, Xunzhao Yin, Xun Jiao, "Energy-Efficient Brain-Inspired Hyperdimensional Computing Using Voltage Scaling". 2022 Design, Automation and Test in Europe Conference (**DATE**), Antwerp, Belgium, 2022 **(Best Paper Award Candidate)**
 1. Rahul Thapa, Dongning Ma, Xun Jiao, "HDXplore: Automated Differential Testing of Brain-Inspired Hyperdimensional Computing". 2021 IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), Tampa, FL, 2021.
