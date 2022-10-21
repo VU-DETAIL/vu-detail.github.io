@@ -5,7 +5,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # Current Members
 ## Faculty
-[Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
+[Xun Jiao](./people/jiao)
 
 ## Ph.D. Students
 [Dongning Ma](./people/dma)
