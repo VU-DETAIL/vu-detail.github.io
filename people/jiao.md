@@ -30,4 +30,13 @@ He has delivered an invited presentation at U.S. Congressional House.
 
 He is a recipient of 2022 IEEE Young Engineer of the Year Award (Philadelphia Section). 
 
+## Fun Facts
+Born in [[Nanchang, Jiangxi Province, China]](https://en.wikipedia.org/wiki/Nanchang)
+
+Dog lover: 
+[[D.C. National Mall]](https://photos.app.goo.gl/LmGYDaYWviGyqfeW8) <br />
+[[D.C. Cherry Blossoms]](https://photos.app.goo.gl/USZGiBTi3htQSCVr9) <br />
+[[Chicago Skyline]](https://photos.app.goo.gl/DKareugfgCAmetgWA) <br />
+[[Crater Lake]](https://photos.app.goo.gl/VtddnniGVB1cfqoH9) <br />
+
 
