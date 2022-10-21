@@ -33,10 +33,14 @@ He is a recipient of 2022 IEEE Young Engineer of the Year Award (Philadelphia Se
 ## Fun Facts
 Born in [[Nanchang, Jiangxi Province, China]](https://en.wikipedia.org/wiki/Nanchang)
 
-Dog lover: 
+Dog (Sunny) lover: <br />
 [[D.C. National Mall]](https://photos.app.goo.gl/LmGYDaYWviGyqfeW8) <br />
 [[D.C. Cherry Blossoms]](https://photos.app.goo.gl/USZGiBTi3htQSCVr9) <br />
 [[Chicago Skyline]](https://photos.app.goo.gl/DKareugfgCAmetgWA) <br />
 [[Crater Lake]](https://photos.app.goo.gl/VtddnniGVB1cfqoH9) <br />
+[[Philadelphia Winter]](https://photos.app.goo.gl/TKpmeyibXpVa7ff98) <br />
+[[San Diego Balboa Park]](https://photos.app.goo.gl/ujHiFq35odoUhCeg7) <br />
+[[Age < 1]](https://photos.app.goo.gl/RvwjBzn1ZirqjYU19) <br />
+[[First Day at Home]](https://photos.app.goo.gl/x8yXzYkdazxyJVzY7)
 
 
