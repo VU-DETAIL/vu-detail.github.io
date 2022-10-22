@@ -11,6 +11,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
   - Ruixuan Wang, Dongning Ma, Xun Jiao, "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing", IEEE Embedded System Letter (**ESL**), 2022. [PDF](https://ieeexplore.ieee.org/document/9836968)
 
 ### Conference
+  - Hussam Amrouch, Mohsen Imani, Xun Jiao, Yiannis Aloimonos Cornelia Fermuller, Dehao Yuan, Dongning Ma, Hamza Errahmouni, Paul R. Genssler, Peter Sutor. “Brain-Inspired Hyperdimensional Computing for Ultra-Efficient Edge AI”, International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), part of **ESWEEK**, 2022.  
+  - Dongning Ma, Rahul Thapa, Xun Jiao, “MoleHD: Efficient Drug Discovery using Brain Inspired Hyperdimensional Computing”. IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), Las Vegas, Nevada, 2022  
   - Sizhe Zhang, Mohsen Imani, Xun Jiao, “ScaleHD: Robust Brain-Inspired Hyperdimensional Computing via Adapative Scaling”. The 41st ACM/IEEE International Conference on Computer-aided Design (**ICCAD**), San Diego, California, 2022.  
   - Dongning Ma, Xue Qin, Xun Jiao, “AxBy-ViT: Reconfigurable Approximate Computation Bypass for Vision Transformers”. The 23rd International Symposium on Quality Electronic Design (**ISQED**), Virtual, California, 2022.
   - Ruixuan Wang, Xun Jiao, X. Sharon Hu, "ODHD: One-Class Brain-Inspired Hyperdimensional Computing for Outlier Detection", ACM/EDAC/IEEE Design Automation Conference (**DAC**), San Francisco, CA, 2022. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DAC2022_ODHD.pdf)
@@ -26,7 +28,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 ### Conference
 
-  - Xiaolong Guo, Song Han, X. Sharon Hu, Xun Jiao, Yier Jin, Fanxin Kong, and Michael Lemmon. "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision". International Conference on Embedded Software (**EMSOFT**), 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ESWEEK2021_Special_Session%20(9).pdf)
+  - Xiaolong Guo, Song Han, X. Sharon Hu, Xun Jiao, Yier Jin, Fanxin Kong, and Michael Lemmon. "Towards Scalable, Secure, and Smart Mission-Critical IoT Systems: Review and Vision". International Conference on Embedded Software (**EMSOFT**), part of **ESWEEK**, 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ESWEEK2021_Special_Session%20(9).pdf)
 
   - Sizhe Zhang, Ruixuan Wang, Jeff (Jun) Zhang, Abbas Rahimi, Xun Jiao, "Assessing Robustness of Hyperdimensional Computing Against Errors in Associative Memory". The 32nd IEEE International Conference on Application-specific Systems, Architectures and Processors (**ASAP**), Virtual, 2021. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/ASAP21.pdf)
  
