@@ -6,7 +6,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 <img src="../asset/jiao.jpg" alt="Xun Jiao" width="300">
 
 # Xun Jiao 
-[[CV]](../asset/Xun_Jiao_CV.pdf)
+[[Curriculum Vitae]](../asset/Xun_Jiao_CV.pdf)
 
 Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu) 
 
@@ -29,7 +29,7 @@ He has delivered an invited presentation at U.S. Congressional House.
 He is a recipient of 2022 IEEE Young Engineer of the Year Award (Philadelphia Section). 
 
 ## Fun Facts
-Born in [[Nanchang, Jiangxi Province, China]](https://en.wikipedia.org/wiki/Nanchang)
+Born and Raised in [[Nanchang, Jiangxi Province, China]](https://en.wikipedia.org/wiki/Nanchang)
 
 Dog (Sunny) lover: <br />
 [[D.C. National Mall]](https://photos.app.goo.gl/LmGYDaYWviGyqfeW8) <br />
