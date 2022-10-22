@@ -8,8 +8,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 # Xun Jiao 
 [[CV]](../asset/Xun_Jiao_CV.pdf)
 
-[[Google Scholar]]([../asset/Xun_Jiao_CV.pdf](https://scholar.google.com/citations?hl=zh-CN&user=tgjAdEAAAAAJ&view_op=list_works&sortby=pubdate))
-
 Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu) 
 
 **Assistant Professor**, Department of Electrical and Computer Engineering, Villanova University 
