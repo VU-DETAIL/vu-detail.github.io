@@ -20,7 +20,7 @@ Xun Jiao is an assistant professor in ECE department of Villanova University. He
 
 His research interests are on robust and efficient computing for intelligent applications such as AI and machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. He published 50+ papers in international conferences and journals. 
 
-He is an associate editor of IEEE Trans on CAD, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and panelist of NSF/DoE.
+He is an associate editor of IEEE Trans on CAD, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a panelist of NSF/DoE.
 
 His research is sponsored by NSF, NIH, L3Harris, and Nvidia. 
 
