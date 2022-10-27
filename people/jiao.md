@@ -18,7 +18,7 @@ Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu)
 ## Short Bio
 Xun Jiao is an assistant professor in ECE department of Villanova University. He leads the [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](vu-detail.github.io). Before that, he obtained his Ph.D. degree from UC San Diego in 2018. He earned a dual first-class Bachelor degree from Joint Program of Queen Mary University of London and Beijing University of Posts and Telecommunications in 2013.
 
-His research interests are on robust and efficient computing for intelligent applications such as AI and machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. 
+His research interests are on robust and efficient computing for intelligent applications such as AI and machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. He published 50+ papers in international conferences and journals. 
 
 He is an associate editor of IEEE Trans on CAD, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and panelist of NSF/DoE.
 
