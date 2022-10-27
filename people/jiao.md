@@ -20,13 +20,13 @@ Xun Jiao is an assistant professor in ECE department of Villanova University. He
 
 His research interests are on robust and efficient computing for intelligent applications such as AI and machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. 
 
-He is an associate editor of IEEE Trans on CAD, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a reviewer of TCAD, JETCAS, TCPS, TII, FGCS, TVLSI, TODAES, DAC, MASCOTS.
+He is an associate editor of IEEE Trans on CAD, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and panelist of NSF/DoE.
 
 His research is sponsored by NSF, NIH, L3Harris, and Nvidia. 
 
 He has delivered an invited presentation at U.S. Congressional House. 
 
-He is a recipient of 2022 IEEE Young Engineer of the Year Award (Philadelphia Section). 
+He is the recipient of 2022 IEEE "Young Engineer of the Year Award" (Philadelphia Section). 
 
 ## Fun Facts
 Born and Raised in [[Nanchang, Jiangxi Province, China]](https://en.wikipedia.org/wiki/Nanchang)
