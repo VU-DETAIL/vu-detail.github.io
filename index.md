@@ -19,7 +19,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [11/2020] [**Grant**] Our $180K project on "Machine Learning-based Signal Processing" is funded by [L3 Harris](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)! 
 * [08/2020] [**Grant**] Our $250K planning project on scalable IoT system is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)!
 * [08/2020] [**Award**] Our paper on "Secure Firmware Fuzzing" is a **Best Paper Candidate** in EMSOFT 2020!
-* [08/2020] [**Award**] Our paper on "Efficient Deep Neural Networks" at Euromicro DSD 2020 receives the **Outstanding Paper Award**!
+* [08/2020] [**Award**] Our paper on "Efficient Neural Networks" receives **Outstanding Paper Award** in DSD 2020!
 * [04/2020] [**Talk**] Dr. Xun Jiao delivered an invited presentation in the **U.S. Congressional House** [College News](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
 * [04/2020] [**Award**] Our paper on "Machine Learning-based Circuit Error Modeling" is selected as a **best paper** of SELSE 2020.  
 * [01/2020] [**Service**] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
