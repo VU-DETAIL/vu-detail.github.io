@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content{
+  max-width: 80rem;
+  padding: 2rem 6rem;
+  margin: auto auto;
+  font: 1.1rem;
+}
