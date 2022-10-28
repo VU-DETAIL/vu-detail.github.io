@@ -26,7 +26,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [11/2019] [**Service**] Xun Jiao serves on the TPC of DAC 2020 and GLSVLSI 2020. 
 * [07/2019] [**Award**] Our Paper on "Secure ICS Protocol Fuzzing" is a **Best Paper Candidate** in EMSOFT 2019!
 * [06/2019] [**Award**] Our Paper on "Cyber-Physical System Design" wins the **Best Paper Award** in CPSCOM 2019!
-* [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieee-ceda.org/publication/tcad-publication/committee/tcad-editorial-board) (IEEE TCAD)!
+* [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of [IEEE Transactions on CAD](https://ieee-ceda.org/publication/tcad-publication/committee/tcad-editorial-board) (IEEE TCAD)!
 * [12/2018] [**Service**] Xun Jiao served on TPC in LCTES 2019.
 * [08/2018] [**Fun**] Xun Jiao has joined ECE department of Villanova University as tenure-track assistant professor this fall. 
   
