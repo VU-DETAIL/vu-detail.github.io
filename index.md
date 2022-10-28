@@ -7,7 +7,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [08/2022] [**Grant**] Our $400K project on "generalizable approximate computing" is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)! 
 * [06/2022] [**Grant**] Our $500K project on "smart green environment infrastructure" is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
 * [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
-* [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Young Engineer of the Year Award (Philadelphia Section)**!
+* [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **"IEEE Young Engineer of the Year Award" (Philadelphia Section)**!
 * [02/2022] [**Award**] Dr. Xun Jiao receives [Junior Faculty Development Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Hyperdimensional Computing" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Award Candidate**!
 * [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
