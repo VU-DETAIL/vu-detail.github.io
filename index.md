@@ -5,7 +5,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # News
 * [08/2022] [**Grant**] Our $400K project on generalizable approximate computing is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)! 
-* [06/2022] [**Grant**] Our $500K project on sustainable and fair green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
+* [06/2022] [**Grant**] Our $500K project on sustainable green environment infrastructure is funded by [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)!
 * [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
 * [04/2022] [**Award**] Dr. Xun Jiao received the 2022 **IEEE Young Engineer of the Year Award (Philadelphia Section)**.
 * [02/2022] [**Award**] Dr. Xun Jiao receives Junior Faculty Development Award from College of Engineering!
