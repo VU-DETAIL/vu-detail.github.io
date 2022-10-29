@@ -29,6 +29,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of [IEEE Transactions on CAD](https://ieee-ceda.org/publication/tcad-publication/committee/tcad-editorial-board) (IEEE TCAD)!
 * [12/2018] [**Service**] Xun Jiao served on TPC in LCTES 2019.
 * [08/2018] [**MISC**] Xun Jiao joined Villanova University as Tenure-Track Assistant Professor. 
+* [06/2018] [**MISC**] Xun Jiao defended his PhD thesis and is now a Doctor! 
   
 ## Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Department of Electrical and Computer Engineering, Villanova University
