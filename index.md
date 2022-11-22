@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [11/2022] [**Award**] Dr. Xun Jiao received **"[IEEE Young Engineer of the Year Award (Philadelphia Section)](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
+* [11/2022] [**Award**] Dr. Xun Jiao received **"[IEEE Young Engineer of the Year Award (Philadelphia Section)](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**[Photo1](https://photos.app.goo.gl/4AtuwapS2p6CpdVR9)
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [06/2022] [**Grant**] Our $500K project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
 * [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
