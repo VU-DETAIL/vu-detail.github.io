@@ -28,7 +28,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [06/2019] [**Award**] Our Paper on "Cyber-Physical System Design" wins the **Best Paper Award** in CPSCOM 2019!
 * [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of [IEEE Transactions on CAD](https://ieee-ceda.org/publication/tcad-publication/committee/tcad-editorial-board) (IEEE TCAD)!
 * [08/2018] [**MISC**] Xun Jiao joined Villanova University as Tenure-Track Assistant Professor. 
-* [06/2018] [**MISC**] Xun Jiao defended his PhD thesis and is now a Doctor! 
+* [06/2018] [**MISC**] Xun Jiao defended his PhD thesis and is now Dr. Xun Jiao! 
   
 ## Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Department of Electrical and Computer Engineering, Villanova University
