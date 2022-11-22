@@ -23,11 +23,10 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [04/2020] [**Talk**] Dr. Xun Jiao delivered an invited presentation in the **U.S. Congressional House** [College News](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
 * [04/2020] [**Award**] Our paper on "Machine Learning-based Circuit Error Modeling" is selected as a **best paper** of SELSE 2020.  
 * [01/2020] [**Service**] Xun Jiao is appointed as an Associate Editor of ACM SIGDA Newsletter.
-* [11/2019] [**Service**] Xun Jiao serves on the TPC of DAC 2020 and GLSVLSI 2020. 
+* [11/2019] [**Service**] Xun Jiao serves on the TPC of DAC, GLSVLSI, and LCTES. 
 * [07/2019] [**Award**] Our Paper on "Secure ICS Protocol Fuzzing" is a **Best Paper Candidate** in EMSOFT 2019!
 * [06/2019] [**Award**] Our Paper on "Cyber-Physical System Design" wins the **Best Paper Award** in CPSCOM 2019!
 * [12/2018] [**Service**] Xun Jiao has been appointed as Associate Editor of [IEEE Transactions on CAD](https://ieee-ceda.org/publication/tcad-publication/committee/tcad-editorial-board) (IEEE TCAD)!
-* [12/2018] [**Service**] Xun Jiao served on TPC in LCTES 2019.
 * [08/2018] [**MISC**] Xun Jiao joined Villanova University as Tenure-Track Assistant Professor. 
 * [06/2018] [**MISC**] Xun Jiao defended his PhD thesis and is now a Doctor! 
   
