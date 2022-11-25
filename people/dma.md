@@ -46,15 +46,16 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 16. Dongning Ma, Xun Jiao, Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
 
 ### Honors
+1. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Student Travel Award (NSF) and Volunteer
 1. **2021 (China) National Artificial Intelligence Challenge Finalist (7th / 2434 Teams)**
-1. IGSC 2021 NSF Student Support Grant
-1. DAC 2021 Young Fellow Program with the **Best 2-Minute Research Video Award**!
-1. ISVLSI 2021 Student Travel Grant Award (supported by NSF)
-1. IGSC 2020 NSF Student Support Grant 
-1. DAC 2020 A. Richard Newton Young Student Fellow 
-1. VTS'20 Student Activities Program (supported by NSF)
-1. IGSC 2019 NSF Student Travel Support
-1. ESWEEK'19 ACM Student Research Competition - Student Travel Grant (Sponsored by Microsoft)
+1. 2021 International Green and Sustainable Computing Conference (IGSC 2021) - Student Support Grant (NSF)
+1. 2021 ACM/EDAC/IEEE Design Automation Conference (DAC 2021) Young Fellow Program with the \textbf{Best 2-Minute Research Video} Award! 
+1. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2021) - Student Travel Grant (NSF)
+1. 2020 ACM/EDAC/IEEE Design Automation Conference (DAC 2020) A. Richard Newton Young Student Fellow
+1. International Green and Sustainable Computing Conference (IGSC 2020) - Student Support Grant
+1. IEEE VLSI Test Symposium 2020 (VTS'20) - Student Activities Program (NSF)
+1. 10th International Green and Sustainable Computing Conference (IGSC 2019) - Poster Presentation - Student Travel Grant (NSF)
+1. Embedded System Week 2019 (ESWEEK'19) ACM SIGBED Student Research Competition - Student Travel Grant (Microsoft) 
 
 
 ## Other Activities
@@ -82,4 +83,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.08.02
+Last updated: 2022.11.24
