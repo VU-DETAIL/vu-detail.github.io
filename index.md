@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
+* [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
 * [08/2022] [**Grant**] Our $1.2M project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [06/2022] [**Grant**] Our $500K project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
