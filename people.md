@@ -3,7 +3,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
-<img src="../asset/detail_about.jpg" alt="detail" width="800">
+<img src="../asset/detail_people.png" alt="detail" width="800">
 
 # Current Members
 ## Faculty
