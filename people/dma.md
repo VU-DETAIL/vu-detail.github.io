@@ -3,7 +3,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](../) | [**People**](../people) | [Research](../research) | [Publication](../publication) | [About](../about) | [Artifact](../artifact) 
 
-<img src="../asset/dma2.jfif" alt="Dongning Ma" width="300">
+<img src="../asset/dma2.jfif" alt="Dongning Ma" width="280">
 
 # Dongning Ma
 Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_CV.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=XlJuTdcAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/dongning-ma-73ab5b185/)
@@ -17,7 +17,7 @@ Email: dma2@villanova.edu
 > "Clarem clement letum vostrum fervor."
 
 ## About
-Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn).
+Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). His research focuses on bio-informatics, brain-inspired computing, approximate computing and generative models.
 
 ## Publications
 ### Journal
@@ -83,4 +83,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.11.24
+Last updated: 2022.12.10
