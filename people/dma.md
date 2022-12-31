@@ -65,7 +65,9 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ### Professional Activities
 1. Student Member, IEEE (2019 - )
-1. Student Member, ACM (2019 - )
+2. Student Member, ACM (2019 - )
+3. Student Member, IEEE CIS (2022 - )
+4. Member, AAAI (2022 - )
 
 ### Teaching
 At Villanova University:
@@ -83,4 +85,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.12.10
+Last updated: 2022.12.31
