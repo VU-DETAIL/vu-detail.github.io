@@ -12,7 +12,7 @@ Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu)
 
 **Assistant Professor**, Department of Electrical and Computer Engineering, Villanova University 
 
-**Director**, [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](vu-detail.github.io)
+**Director**, [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)]([vu-detail.github.io](https://vu-detail.github.io))
 
 
 ## Short Bio
