@@ -49,7 +49,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Student Travel Award (NSF) and Volunteer
 1. **2021 (China) National Artificial Intelligence Challenge Finalist (7th / 2434 Teams)**
 1. 2021 International Green and Sustainable Computing Conference (IGSC 2021) - Student Support Grant (NSF)
-1. 2021 ACM/EDAC/IEEE Design Automation Conference (DAC 2021) Young Fellow Program with the \textbf{Best 2-Minute Research Video} Award! 
+1. 2021 ACM/EDAC/IEEE Design Automation Conference (DAC 2021) Young Fellow Program with the **Best 2-Minute Research Video** Award! 
 1. IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2021) - Student Travel Grant (NSF)
 1. 2020 ACM/EDAC/IEEE Design Automation Conference (DAC 2020) A. Richard Newton Young Student Fellow
 1. International Green and Sustainable Computing Conference (IGSC 2020) - Student Support Grant
