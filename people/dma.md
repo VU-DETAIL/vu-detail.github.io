@@ -14,7 +14,7 @@ Villanova University
 
 Email: dma2@villanova.edu 
 
-> "Clarem clement letum vostrum fervor."
+> "This world is filled with those who would oppose fate, while the one who understands fate smiles faintly down upon them. If the one who weaves fate may be born here, then let the one who witnesses fate see it all."
 
 ## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). His research focuses on bio-informatics, brain-inspired computing, approximate computing and generative models.
@@ -87,4 +87,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2022.12.31
+Last updated: 2023.03.07
