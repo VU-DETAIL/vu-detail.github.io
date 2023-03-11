@@ -4,6 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) | [Artifact](./artifact) 
 
 ## Journal
+1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023. (Accepted) [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/TCAD2023_HDTest_.pdf)
 1. Mauro Sanchirico III, Xun Jiao, and C. Nataraj. “AMITE: A Novel Polynomial Expansion for Analyzing Neural Network Nonlinearities”, accepted in IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2022. [PDF](https://ieeexplore.ieee.org/document/9650758)
 2. Ruixuan Wang, Dongning Ma, Xun Jiao, "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing", IEEE Embedded System Letter (**ESL**), 2022. [PDF](https://ieeexplore.ieee.org/document/9836968)
 3. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TCAD21.pdf)
