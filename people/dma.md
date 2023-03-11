@@ -21,7 +21,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ## Publications
 ### Journal
-1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023.
+1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023. (Accepted)
 1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022.
 1. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
 1. Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
