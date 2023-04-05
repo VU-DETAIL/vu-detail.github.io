@@ -4,6 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [03/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2023](https://iccad.com), Organizational Committee of [ESWEEK 2023](https://esweek.org), and General Chair of [DACPS 2023](https://59dac.conference-program.com/presentation/?id=WKSHP101&sess=sess190).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
 * [08/2022] [**Grant**] Our $1.2M project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
@@ -14,8 +15,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [02/2022] [**Award**] Our paper "Energy-Efficient Hyperdimensional Computing" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Candidate**!
 * [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
 * [10/2021] [**Student**] Ph.D. student Dongning Ma, Ruixuan Wang and Sizhe Zhang are [DAC 2021 Young Fellows](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
-* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a track co-chair for [DAC 2022](https://www.dac.com). 
-* [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF panel.  
+* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a TPC track co-chair for [DAC 2022](https://www.dac.com). 
+* [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF and DoE panel.  
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [Frontiers in Neuroscience - Neuromorphic Engineering"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures).  
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of [DAC 2021](https://www.dac.com). 
 * [11/2020] [**Grant**] Our $180K project on "[Machine Learning-based Signal Processing](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)" is funded by L3 Harris! 
