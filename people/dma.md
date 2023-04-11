@@ -28,6 +28,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+1. Dongning Ma, Pengfei Zhao, Xun Jiao, "PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing", the Fourth Workshop on Neural Architecture Search, Third Lightweight NAS Challenge at 2023 Conference on Computer Vision and Pattern Recognition (**CVPRW-NAS**), Vancouver, Canada, 2023
 1. Sizhe Zhang, Dongning Ma, Song Bian, Lei Yang, Xun Jiao, "On Hyperdimensional Computing-Based Federated Learning: A Case Study". 2023 International Joint Conference on Neural Networks (**IJCNN**), Queensland, Australia, 2023
 1. Dongning Ma, Sizhe Zhang, Xun Jiao, "Robust Hyperdimensional Computing Against Cyber Attacks and Hardware Errors: A Survey". 28th Asia and South Pacific Design Automation Conference (**ASP-DAC**), Tokyo, Japan, 2023
 1. Dongning Ma, Rahul Thapa, Xun Jiao, "MoleHD: Efficient Drug Discovery using Brain Inspired Hyperdimensional Computing". 2022 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**), Las Vegas, Nevada, 2022
@@ -89,4 +90,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
 
-Last updated: 2023.03.07
+Last updated: 2023.04.11
