@@ -16,7 +16,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 [Sizhe Zhang](https://vu-sizhe-zhang.github.io/)
 
-[Wengying (Wendy) Wen]()
+[Wengying (Wendy) Wen](./people/wwen)
 
 ## Master Students
 Lauren Scalice
