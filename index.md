@@ -4,6 +4,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
+* [05/2023] [**Service**] Xun Jiao serves as the general chair of [DACPS 2023]([https://esweek.org](https://60dac.conference-program.com/presentation/?id=WKSHP101&sess=sess166)).
+* [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame, Peking U, and ICT-CAS.
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
 * [03/2023] [**Service**] Xun Jiao serves in the organization committee of [ESWEEK 2023](https://esweek.org).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
