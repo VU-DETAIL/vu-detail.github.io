@@ -6,6 +6,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 # News
 * [05/2023] [**Service**] Xun Jiao serves as the general chair of [DACPS 2023](https://60dac.conference-program.com/presentation/?id=WKSHP101&sess=sess166).
 * [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame, Peking U, and ICT-CAS.
+* [05/2023] [**Student**] Rahul Thapa named a 2023 [Knight-Hennessy Scholar](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html) at Stanford!
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
 * [03/2023] [**Service**] Xun Jiao serves in the organization committee of [ESWEEK 2023](https://esweek.org).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
@@ -13,13 +14,13 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [06/2022] [**Grant**] Our $500K project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
 * [06/2022] [**Grant**] Our $150K project on "[Sustainable Green Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228035&HistoricalAwards=false)" is funded by National Science Foundation! 
-* [05/2022] [**Service**] Dr. Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
-* [02/2022] [**Award**] Dr. Xun Jiao receives [Junior Faculty Development Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
+* [05/2022] [**Service**] Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
+* [02/2022] [**Award**] Xun Jiao receives [Junior Faculty Development Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
 * [02/2022] [**Award**] Our paper "Energy-Efficient Hyperdimensional Computing" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Candidate**!
-* [12/2021] [**Media**] Dr. Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
-* [10/2021] [**Student**] Ph.D. student Dongning Ma, Ruixuan Wang and Sizhe Zhang are [DAC 2021 Young Fellows](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
-* [10/2021] [**Service**] Dr. Xun Jiao is invited to serve as a TPC track co-chair for [DAC 2022](https://www.dac.com). 
-* [09/2021] [**Service**] Dr. Xun Jiao is invited to serve on NSF and DoE panel.  
+* [12/2021] [**Media**] Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
+* [10/2021] [**Student**] Dongning Ma, Ruixuan Wang and Sizhe Zhang are [DAC 2021 Young Fellows](https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program)! 
+* [10/2021] [**Service**] Xun Jiao is invited to serve as a TPC track co-chair for [DAC 2022](https://www.dac.com). 
+* [09/2021] [**Service**] Xun Jiao is invited to serve on NSF and DoE panel.  
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [Frontiers in Neuroscience - Neuromorphic Engineering"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures).  
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of [DAC 2021](https://www.dac.com). 
 * [11/2020] [**Grant**] Our $180K project on "[Machine Learning-based Signal Processing](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)" is funded by L3 Harris! 
