@@ -25,7 +25,7 @@ Bikal Lamichhane
 
 ## Undergraduate Students
 
-Caroline Maclaren (Join Zoom as a summer intern)
+Caroline Maclaren ([2023 Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html))
 
 Oluwasola Dugbo ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
@@ -45,7 +45,7 @@ Mauro Sanchirico (**College of Engineering Outstanding Graduate Student Award**)
 
 ## Undergraduate Students
 
-Rahul Thapa (**Join Univ. of Wisconsin Madison as a PhD student**)
+Rahul Thapa ([**2023 Knight-Hennessy Scholar**](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html))
 
 Andrew Osburn ([Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html))
 
