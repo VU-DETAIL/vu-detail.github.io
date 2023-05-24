@@ -7,6 +7,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [05/2023] [**Service**] Xun Jiao serves as the general chair of [DACPS 2023](https://60dac.conference-program.com/presentation/?id=WKSHP101&sess=sess166).
 * [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame, Peking U, and ICT-CAS.
 * [05/2023] [**Student**] Rahul Thapa named a 2023 [Knight-Hennessy Scholar](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html) at Stanford!
+* [05/2023] [**Student**] Caroline Maclaren named a 2023 [Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html)!
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
 * [03/2023] [**Service**] Xun Jiao serves in the organization committee of [ESWEEK 2023](https://esweek.org).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Video]](https://photos.app.goo.gl/cTcBK7tfW3TM9E9t7)[[Photo]](https://photos.app.goo.gl/N7b4W9JEECpk2FWs9)!"**
