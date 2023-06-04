@@ -3,6 +3,12 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
 ## [Home](./) | [People](./people) | [**Research**](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
+## Robust AI and Machine Learning (ML)
+Recent development in artificial intelligence (AI) and machine learning (ML), e.g., deep neural networks (DNNs), promise enormous societal and economic benefits. However, the robustness of AI/ML systems face severe challenges stemming from uncertain or adversarial conditions, such as hardware failures, software errors, security threats, or environmental disruptions. For example, recently, Google and Meta have both reported notable instances of hardware errors occurring in their data centers, causing substantial impact on the service. 
+
+* Robust AI Against Unreliable Hardware: We have tested and enhanced AI robustness against hardware errors caused by uncertain operating conditions. [ICCAD’17, DATE’18, D&T’20, ASAP’21, ICCAD’22, DATE’22, ASP-DAC’23]. 
+* Robust AI Against Adversarial Data: We have tested and enhanced AI robustness against uncertain/adversarial input carefully crafted by invisible perturbation. [DAC’21, DATE’22, DATE’23, TCAD’23]. 
+
 ## Brain-Inspired Hyperdimensional Computing
 Hyperdimensional computing (HDC), also known as vector symbolic architectures (VSA), was introduced as an alternative computational model mimicking the “human brain” at
 the functionality level. Compared with DNNs, the advantages of HDC include smaller model size, less computation cost, and one/few-shot learning, making it a promising alternative computing paradigm. We explore this novel neuromorphic computing in multiple aspects:
@@ -10,27 +16,9 @@ the functionality level. Compared with DNNs, the advantages of HDC include small
 * We design HDC systems for different (emerging) application domains, such as NLP, sensor attack detection, and drug discovery. [DAC'22, ISVLSI'21, RTAS'21]
 * We focus on processing of HDC algorithms and attempt to enhance the energy efficiency, robustness and reliability. [ICCAD'22, DATE'22, DAC'21, ASAP'21, ISVLSI'21] 
 
-## AI/Machine Learning Acceleration and Efficiency
-The continuous growth of big data regime and machine learning applications has posed an overwhelming increase in computing demand. How to enable high-performance/low-power/real-time processing of such emerging workloads, without sacrificing the quality of service (QoS), has, therefore, become a crucial question to computing industry. We adopt a software-hardware codesign approach to tackle this problem:
 
-*	We design novel processing-in-memory platforms that can significantly reduce the computation overhead in deep neural networks [DATE'18, GLSVLSI'20]. 
+## Energy-Efficient Computing 
+Energy efficiency has become a top priority for both high-performance computing systems (e.g., data center) and resource-constrained embedded systems (e.g., mobile/IoT device). The design of energy-efficient computing systems often need to consider the tradeoff between performance, robustness/reliability, and efficiency. We adopt a cross-layer approach to tackle this problem.  
 
-*	We design novel detect-and-bypass hardware that can reduce redundant computations and energy consumption in deep neural networks and multimedia applications [NanoArch'19, ICESS'19]. 
-
-*	We use machine learning methods to design efficient computation platforms for multimedia applications [DATE’17, TC’18, DAC’20]. 
-
-## Secure/Dependable Computing Systems
-Cyber-security in the digital age is a first-class concern. The ever-increasing use of digital devices, unfortunately, is facing significant challenges, due to the serious effects of security vulnerabilities, which can lead to medical data leakage, adversarial control of nuclear power plants or car hijacking. This challenge is even more pronounced in battlefields when IoT systems are more likely to be targeted by cyber-criminals or hostiles. To identify vulnerabilities in digital systems, we adopt a fuzzing-based approach to:  
-
-*	Identify vulnerabilities from a large set of real-world software such as Google fuzzer-test-suite [ICSE'18, USENIX Security '19, TSE'19, TDSC'19]. Over 100 previously unknown vulnerabilities are discovered and are reported to the US National Vulnerability Database with unique CVE assignments. 
-
-*	Identify vulnerabilities from industrial control system (ICS) software/protocol: 10 previously unknown vulnerabilities are discovered and 6 of which have been assigned unique CVE identifiers in the US National Vulnerability Database. [EMSOFT'19, DAC'20]
-
-## Low-Power Computing 
-Power efficiency has become a top priority for both high-performance computing systems (e.g., data center) and resource-constrained embedded systems (e.g., mobile/IoT device). The adverse effects of high-power consumption include an enormous emission of environmentally hostile carbon oxide, system reliability and lifetime degradation due to power-induced thermal effects, and operational cost of cloud and IoT service. To tackle this problem, our work adopts a cross-layer approach: 
-
-*	Circuit-layer: We perform careful and detailed dynamic voltage and frequency scaling (DVFS) with an unprecedented consideration of their effects in circuit robustness to timing violations [DAC'20, TC'18, DATE'17, ICCD'16, ESL'19, CDOES+ISSS'19]. We also design approximate circuits with less power consumption [DATE'17].  
-
-*	Architecture-layer: We propose novel computer architecture design to enable low-power processing of emerging workloads. We design FeFET-based Ternary Content Addressable Memory (TCAM) and Bloom filter to save 30% more energy on AMD GPU [ISQED'22, DATE'18, GLSVLSI'20] for neural networks. 
-
-*	System-layer: We propose a novel workload-aware frequency scaling approach for embedded systems [ESL'19]. 
+*	We are the first to develop input-aware circuit error model under dynamic voltage and frequency scaling (DVFS), a most-widely used energy-efficiency technique used in computing. This machine learning-based model can provide accurate understanding and guidance for energy-efficient design. [ICCD'16, DATE'17, TC'18, DAC'20, TCAD'21, TCAD'22]  
+*	We propose novel approximate computing solutions (e.g., approximate circuits, in-memory computing, voltage scaling) in circuit and architecture layers to enable energy-efficient processing of emerging workloads such as AI and multimedia. [TC'18, DATE'18, GLSVLSI'20, DSD'20 (Oustanding Paper Award), DATE'22 (Best Paper Candidate), ICCAD'22]
