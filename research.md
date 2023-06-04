@@ -11,7 +11,7 @@ Recent development in artificial intelligence (AI) and machine learning (ML), e.
 
 ## Brain-Inspired Hyperdimensional Computing
 Hyperdimensional computing (HDC), also known as vector symbolic architectures (VSA), was introduced as an alternative computational model mimicking the “human brain” at
-the functionality level. Compared with DNNs, the advantages of HDC include smaller model size, less computation cost, and one/few-shot learning, making it a promising alternative computing paradigm. We explore this novel neuromorphic computing in multiple aspects:
+the functionality level. Compared with deep neural networks, the advantages of HDC include smaller model size, less computation cost, and one/few-shot learning, making it a promising alternative computing paradigm. We explore this novel learning approach in multiple aspects:
 
 * We design HDC systems for different (emerging) application domains, such as NLP, sensor attack detection, and drug discovery. [DAC'22, ISVLSI'21, RTAS'21]
 * We focus on processing of HDC algorithms and attempt to enhance the energy efficiency, robustness and reliability. [ICCAD'22, DATE'22, DAC'21, ASAP'21, ISVLSI'21] 
