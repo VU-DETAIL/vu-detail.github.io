@@ -4,10 +4,10 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [Home](./) | [People](./people) | [**Research**](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 ## Robust AI and Machine Learning (ML)
-Recent development in artificial intelligence (AI) and machine learning (ML), e.g., deep neural networks (DNNs), promise enormous societal and economic benefits. However, the robustness of AI/ML systems face severe challenges stemming from uncertain or adversarial conditions, such as hardware failures, software errors, security threats, or environmental disruptions. For example, recently, Google and Meta have both reported notable instances of hardware errors occurring in their data centers, causing substantial impact on the service. We have developed cross-layer solutions spanning hardware and algorithm layers. 
+Recent development in artificial intelligence (AI) and machine learning (ML), e.g., deep neural networks (DNNs), promise enormous societal and economic benefits. However, the robustness of AI/ML systems face severe challenges stemming from uncertain or adversarial conditions, such as hardware failures, software errors, security threats, or environmental disruptions. For example, recently, Google and Meta have both reported notable instances of hardware errors occurring in their data centers, causing substantial impact on the service. To tackle this problem, we have developed cross-layer solutions spanning hardware and algorithm layers. 
 
-* Robust AI Against Unreliable Hardware: We have tested and enhanced AI robustness against hardware errors caused by uncertain operating conditions. [ICCAD’17, DATE’18, D&T’20, ASAP’21, ICCAD’22, DATE’22, ASP-DAC’23]. 
-* Robust AI Against Adversarial Data: We have tested and enhanced AI robustness against uncertain/adversarial input carefully crafted by invisible perturbation. [DAC’21, DATE’22, DATE’23, TCAD’23]. 
+* Robust AI Against Unreliable Hardware: We have tested and enhanced AI/ML robustness against hardware errors, e.g., bit flips in computation and/or in memory. [ICCAD’17, DATE’18, D&T’20, ASAP’21, ICCAD’22, DATE’22, ASP-DAC’23]. 
+* Robust AI Against Adversarial Data: We have tested and enhanced AI robustness against uncertain/adversarial input, e.g., carefully-crafted images with invisible perturbation. [DAC’21, DATE’22, DATE’23, TCAD’23]. 
 
 ## Brain-Inspired Hyperdimensional Computing
 Hyperdimensional computing (HDC), also known as vector symbolic architectures (VSA), was introduced as an alternative computational model mimicking the “human brain” at
