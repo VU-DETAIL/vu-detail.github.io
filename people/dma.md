@@ -15,11 +15,11 @@ Villanova University
 Email: dma2@villanova.edu 
 
 ## About
-Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). His research focuses on bio-informatics, deep learning and generative models.
+Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). His research focuses on deep learning applications including bio-informatics, natural language processing, and generative models.
 
 ## Publications
 ### Journal
-1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023. (Accepted)
+1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023.
 1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022.
 1. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
 1. Xun Jiao, Dongning Ma, Wanli Chang, Yu Jiang. "LEVAX: An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2020.
@@ -64,11 +64,8 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 1. Reviewer for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 2. Program Committee of The Euromicro Conference on Digital System Design (DSD) 2022 - Special Session on Design of Cyber-Physical Systems (DCPS)
 
-### Professional Activities
-1. Student Member, IEEE (2019 - )
-2. Student Member, ACM (2019 - )
-3. Student Member, IEEE CIS (2022 - )
-4. Member, AAAI (2022 - )
+### Professional Memberships
+IEEE Student Member, ACM Student Member, IEEE CIS Student Member, AAAI Member
 
 ### Teaching
 At Villanova University:
@@ -87,5 +84,4 @@ At Villanova University:
 1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2019)
 1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
-
-Last updated: 2023.04.11
+Last updated: 2023.06.25
