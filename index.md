@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [05/2023] [**Service**] Xun Jiao serves as the general chair of [DACPS 2023](https://60dac.conference-program.com/presentation/?id=WKSHP101&sess=sess166).
+* [05/2023] [**Service**] Xun Jiao serves as the general chair of the 6th workshop of Design Automation for CPS.
 * [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame, Peking U, HKUST(GZ), and ICT-CAS.
 * [05/2023] [**Student**] Rahul Thapa named a 2023 [Knight-Hennessy Scholar](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html) at Stanford!
 * [05/2023] [**Student**] Caroline Maclaren named a 2023 [Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html)!
