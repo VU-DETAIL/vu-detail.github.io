@@ -10,7 +10,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [05/2023] [**Student**] Caroline Maclaren named a 2023 [Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html)!
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
 * [03/2023] [**Service**] Xun Jiao serves in the organization committee of [ESWEEK 2023](https://esweek.org).
-* [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Photo]](../asset/IEEE-Award.jpg)!"**
+* [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Photo]](../asset/IEEE-award.JPG)!"**
 * [08/2022] [**Grant**] Our $1.2M project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [06/2022] [**Grant**] Our $500K project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
