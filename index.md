@@ -4,12 +4,13 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
 
 # News
-* [05/2023] [**Service**] Xun Jiao serves as the general chair of the 6th workshop of Design Automation for CPS.
-* [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame (Host: Prof. [Sharon Hu](https://sites.nd.edu/xsharon-hu/)).
+* [05/2023] [**Service**] Xun Jiao serves as the General Chair of the 6th workshop of Design Automation for CPS.
+* [05/2023] [**Talk**] Xun Jiao delivered an invited talk at Univ of Notre Dame (Host: Prof. [Sharon Hu](https://sites.nd.edu/xsharon-hu/)).
 * [05/2023] [**Student**] Rahul Thapa named a 2023 [Knight-Hennessy Scholar](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html) at Stanford!
 * [05/2023] [**Student**] Caroline Maclaren named a 2023 [Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html)!
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
-* [03/2023] [**Service**] Xun Jiao serves in the organization committee of [ESWEEK 2023](https://esweek.org).
+* [03/2023] [**Service**] Xun Jiao serves as Web Chair of [ESWEEK 2023](https://esweek.org).
+* [03/2023] [**Service**] Xun Jiao serves as TPC member of [ICCAD 2023](https://iccad.com).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Photo]](./asset/IEEE-award.JPG)!"**
 * [08/2022] [**Grant**] Our $1.2M project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
 * [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
