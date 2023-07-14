@@ -5,7 +5,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # News
 * [05/2023] [**Service**] Xun Jiao serves as the general chair of the 6th workshop of Design Automation for CPS.
-* [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame, Peking U, HKUST(GZ), and ICT-CAS.
+* [05/2023] [**Talk**] Xun Jiao delivered invited talks at U of Notre Dame (Host: Prof. Sharon Hu).
 * [05/2023] [**Student**] Rahul Thapa named a 2023 [Knight-Hennessy Scholar](https://www1.villanova.edu/university/media/press-releases/2023/2023-knight-hennessy.html) at Stanford!
 * [05/2023] [**Student**] Caroline Maclaren named a 2023 [Fulbright Scholar](https://www1.villanova.edu/university/media/press-releases/2023/fulbright-grants.html)!
 * [04/2023] [**Media**] Our research on robust computing for AI is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
