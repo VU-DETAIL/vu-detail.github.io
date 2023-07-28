@@ -12,12 +12,12 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [03/2023] [**Service**] Xun Jiao serves as Web Chair of [ESWEEK 2023](https://esweek.org).
 * [03/2023] [**Service**] Xun Jiao serves as TPC member of [ICCAD 2023](https://iccad.com).
 * [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award (Philadelphia Section)[[Photo]](./asset/IEEE-award.JPG)!"**
-* [08/2022] [**Grant**] Our $1.2M project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
-* [08/2022] [**Grant**] Our $400K project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
-* [06/2022] [**Grant**] Our $500K project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
-* [06/2022] [**Grant**] Our $150K project on "[Sustainable Green Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228035&HistoricalAwards=false)" is funded by National Science Foundation! 
+* [08/2022] [**Grant**] Our project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
+* [08/2022] [**Grant**] Our project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
+* [06/2022] [**Grant**] Our project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
+* [06/2022] [**Grant**] Our project on "[Sustainable Green Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228035&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [05/2022] [**Service**] Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
-* [02/2022] [**Award**] Xun Jiao receives [Junior Faculty Development Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
+* [02/2022] [**Award**] Xun Jiao receives [Junior Faculty Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
 * [02/2022] [**Student**] Mauro Sanchirico receives College of Engineering **Outstanding Graduate Student Award** (1 annually). 
 * [02/2022] [**Award**] Our paper "Energy-Efficient Hyperdimensional Computing" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Candidate**!
 * [12/2021] [**Media**] Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
@@ -26,8 +26,8 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [09/2021] [**Service**] Xun Jiao is invited to serve on NSF and DoE panel.  
 * [06/2021] [**Service**] Dr. Jiao serves as the lead guest editor of the [Frontiers in Neuroscience - Neuromorphic Engineering"](https://www.frontiersin.org/research-topics/22893/brain-inspired-hyperdimensional-computing-algorithms-models-and-architectures).  
 * [12/2020] [**Service**]  Xun Jiao will serve on the TPC and track co-chair of [DAC 2021](https://www.dac.com). 
-* [11/2020] [**Grant**] Our $180K project on "[Machine Learning-based Signal Processing](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)" is funded by L3 Harris! 
-* [08/2020] [**Grant**] Our $250K planning project on "[Scalable IoT Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)" is funded by National Science Foundation!
+* [11/2020] [**Grant**] Our project on "[Machine Learning-based Signal Processing](https://www1.villanova.edu/content/villanova/engineering/newsevents/newsarchives/2020/faculty-research/CAC-industry-contract.html)" is funded by L3 Harris! 
+* [08/2020] [**Grant**] Our planning project on "[Scalable IoT Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028889&HistoricalAwards=false)" is funded by National Science Foundation!
 * [08/2020] [**Award**] Our paper on "Secure Firmware Fuzzing" is a **Best Paper Candidate** in EMSOFT 2020!
 * [08/2020] [**Award**] Our paper on "Efficient Neural Networks" receives **Outstanding Paper Award** in DSD 2020!
 * [04/2020] [**Talk**] Dr. Xun Jiao delivered an invited presentation in the **U.S. Congressional House** [[**College News**]](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html).
