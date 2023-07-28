@@ -21,6 +21,7 @@ Xun Jiao is an assistant professor in ECE department of Villanova University. He
 His research interests include robust/resilient computing, approximate computing, AI/machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. He published 50+ papers in international conferences and journals. 
 
 He is an associate editor of IEEE Trans on CAD, a lead guest editor of Frontiers in Neuroscience, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a panelist of NSF/DoE.
+He served as the general chair of DACPS workshop@DAC 2023, and web chair for ESWEEK 2022. 
 
 His research is sponsored by NSF, NIH, L3Harris, and Nvidia. 
 
