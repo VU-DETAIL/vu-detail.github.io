@@ -23,11 +23,12 @@ His research interests include robust/resilient computing, approximate computing
 He is an associate editor of IEEE Trans on CAD, a lead guest editor of Frontiers in Neuroscience, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a panelist of NSF/DoE.
 He served as the general chair of DACPS workshop 2023, and web chair for ESWEEK 2023. 
 
-His research is sponsored by NSF, NIH, L3Harris, and Nvidia. 
-
-He has delivered an invited presentation at U.S. Congressional House, which "[received a lot of good feedback from both sides of the aisle](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html)". 
+His research is sponsored by NSF, NIH, L3Harris, and Nvidia.  
 
 He is the recipient of 2022 IEEE "Young Engineer of the Year Award (Philadelphia Section)". 
+
+Fun fact:
+He has delivered an invited presentation at U.S. Congressional House, which "[received a lot of good feedback from both sides of the aisle](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html)".
 
 <!---
 ## Fun Facts
