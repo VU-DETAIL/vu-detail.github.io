@@ -27,6 +27,7 @@ His research is sponsored by NSF, NIH, L3Harris, and Nvidia.
 
 He is the recipient of 2022 IEEE "Young Engineer of the Year Award (Philadelphia Section)". 
 
+
 *Fun Fact*:
 He has delivered an invited presentation at U.S. Congressional House, which "[received a lot of good feedback from both sides of the aisle](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html)".
 
