@@ -19,7 +19,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 
 ## Publications
 ### Journal
-1. Dongning Ma, Meltem Izzetoglu, Roee Holtzer, and Xun Jiao. ``Deep Learning Based Walking Tasks Classification in Older Adults using fNIRS''. IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2023. (Accepted)
+1. Dongning Ma, Meltem Izzetoglu, Roee Holtzer, and Xun Jiao. "Deep Learning Based Walking Tasks Classification in Older Adults using fNIRS." IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2023.
 1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023.
 1. Ruixuan Wang, Dongning Ma, and Xun Jiao. "EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing." IEEE Embedded Systems Letters (**ESL**), 2022.
 1. Dongning Ma, Xinqiao Zhang, Ke Huang, Yu Jiang, Wanli Chang, Xun Jiao. "DEVoT: Dynamic Delay Modeling of Functional Units under Voltage and Temperature Variations". IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2021.
