@@ -18,7 +18,7 @@ Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu)
 ## Short Bio
 Xun Jiao is an assistant professor in ECE department of Villanova University. He leads the [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](https://vu-detail.github.io). He has been a visiting scientist of Meta/Facebook, and a visiting student researcher of NXP Semiconductors. He obtained his Ph.D. degree from UC San Diego in 2018. He earned a dual B.S. degree from the Joint Program of Queen Mary University of London and Beijing University of Posts and Telecommunications in 2013.
 
-His research interests include robust/resilient computing, approximate computing, AI/machine learning. He received 6 paper awards/nominations in international conferences such as DATE, EMSOFT, DSD, and SELSE. He published 50+ papers in international conferences and journals. 
+His research interests include robust/resilient computing, approximate computing, AI/machine learning. He received 6 paper awards/nominations in international conferences such as DATE and EMSOFT. He published 60+ papers in international conferences such as DAC, ICCAD, DATE, and journals such as TCAD, TC, and TNNLS. 
 
 He is an associate editor of IEEE Trans on CAD, a lead guest editor of Frontiers in Neuroscience, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a panelist of NSF/DoE.
 He served as the general chair of DACPS workshop 2023, and web chair for ESWEEK 2023. 
@@ -28,8 +28,10 @@ His research is sponsored by NSF, NIH, L3Harris, and Nvidia.
 He is the recipient of 2022 IEEE "Young Engineer of the Year Award (Philadelphia Section)". 
 
 
+<!---
 *Fun Fact*:
 He has delivered an invited presentation at U.S. Congressional House, which "[received a lot of good feedback from both sides of the aisle](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2020/faculty-research/Sudler-Blockchain.html)".
+-->
 
 <!---
 ## Fun Facts
