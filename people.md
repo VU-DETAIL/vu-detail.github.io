@@ -1,7 +1,7 @@
 ---
 title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
-## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
+## [Home](./) | [**People**](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) | [Teaching](./teaching)
 
 <img src="../asset/detail_people.png" alt="detail" width="800">
 
