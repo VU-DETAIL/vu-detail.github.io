@@ -1,7 +1,7 @@
 ---
 title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
-## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) 
+## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) | | [Teaching](./teaching)
 
 # News
 * [05/2023] [**Service**] Xun Jiao serves as the General Chair of the Design Automation for CPS Workshop.
