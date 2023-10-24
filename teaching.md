@@ -4,7 +4,9 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [Home](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) | [**Teaching**](./teaching)
 
 ## Teaching
-I love interaction with students and find trenmendous satisfaction when I share what I know with students. Often times, I learn more from my students than they learn from me. My teaching responsibility mainly lies on AI and machine learning related courses, as well as computer hardware courses such as computer organization. I teach both undergraduate and graduate level courses. 
+My teaching responsibility mainly lies on AI and machine learning related courses, as well as computer hardware courses such as computer organization. I teach both undergraduate and graduate level courses. I love interaction with students and find trenmendous satisfaction when I share what I know with students. I created a new AI course in the past "Intro to AI", introducing freshmen the general concepts and implementation of AI. I created a new senior elective and graduate AI course on Machine Learning to introduce AI models and algorithms such as neural networks. 
+
+ECE
 
 <img src="../asset/teaching_1.PNG" alt="detail" width="200">
 <img src="../asset/teaching_2.JPG" alt="detail" width="300">
