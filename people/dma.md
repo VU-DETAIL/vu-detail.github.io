@@ -71,19 +71,13 @@ IEEE Student Member, ACM Student Member, IEEE CIS Student Member, AAAI Member
 
 ### Teaching
 At Villanova University:
-1. Teaching Assistant for EGR 1261 - Engineering Programming and Application (Spring 2023)
-1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Spring 2023)
-1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Spring 2022)
-1. Teaching Assistant for EGR 1620 - Engineering Programming and Application (Spring 2022)
-1. Teaching Assistant for EGR 1200 - Engineering Interdisciplinary Project I (Fall 2021)
-1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2021)
-1. Teaching Assistant for EGR 1620 - Engineering Programming and Application (Spring 2021)
-1. Teaching Assistant for EGR 1200 - Engineering Interdisciplinary Project I (Fall 2020)
-1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2020)
-1. Teaching Assistant for ECE 1620 - Engineering Programming and Application (Spring 2020)
-1. Teaching Assistant for ECE 2045 - Fundamentals of Computer Engineering II Lab (Spring 2020)
-1. Teaching Assistant for ECE 5400 - Applied Machine Learning (Fall 2019)
-1. Teaching Assistant for ECE 5450 - Microcontrollers & Applications (Fall 2019)
-1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
+ - EGR 1261 - Engineering Programming and Application (Spring 2023)
+ - EGR 1620 - Engineering Programming and Application (Spring 2021)
+ - EGR 1200 - Engineering Interdisciplinary Project I (Fall 2020, Fall 2021)
+ - ECE 1620 - Engineering Programming and Application (Spring 2020, Spring 2021, Spring 2022)
+ - ECE 2045 - Fundamentals of Computer Engineering II Lab (Spring 2020)
+ - ECE 5400 - Applied Machine Learning (Fall 2019, Spring 2022, Spring 2023)
+ - ECE 5450 - Microcontrollers and Applications (Fall 2019, Fall 2020, Fall 2021, Fall 2023)
+ - ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
-Last updated: 2023.08.15
+Last updated: 2023.11.27
