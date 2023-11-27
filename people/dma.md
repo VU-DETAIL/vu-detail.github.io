@@ -63,7 +63,8 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Departm
 ## Other Activities
 ### Services
 1. Reviewer for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-2. Program Committee of The Euromicro Conference on Digital System Design (DSD) 2022 - Special Session on Design of Cyber-Physical Systems (DCPS)
+2. Reviewer for ACM Transactions on Knowledge Discovery from Data (TKDD)
+3. Program Committee of The Euromicro Conference on Digital System Design (DSD) 2022 - Special Session on Design of Cyber-Physical Systems (DCPS)
 
 ### Professional Memberships
 IEEE Student Member, ACM Student Member, IEEE CIS Student Member, AAAI Member
