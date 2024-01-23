@@ -4,7 +4,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) | [Teaching](./teaching)
 
 # News
-* [06/2023] [**Media**] Our research is featured in [WIRED]([https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/](https://www.wired.com/story/hyperdimensional-computing-reimagines-artificial-intelligence/)). 
+* [06/2023] [**Media**] Our research is featured in [WIRED](https://www.wired.com/story/hyperdimensional-computing-reimagines-artificial-intelligence/)). 
 * [05/2023] [**Talk**] Xun Jiao delivered invited talks at Peking U, HKUST (GZ), and CAS/ICT.
 * [05/2023] [**Service**] Xun Jiao serves as the General Chair of the Design Automation for CPS Workshop.
 * [05/2023] [**Talk**] Xun Jiao delivered an invited talk at Univ of Notre Dame (Host: Prof. [Sharon Hu](https://sites.nd.edu/xsharon-hu/)).
