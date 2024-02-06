@@ -1,7 +1,7 @@
 ---
 title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
-## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact) | [Teaching](./teaching)
+## [**Home**](./) | [People](./people) | [Research](./research) | [Publication](./publication) | [About](./about) | [Artifact](./artifact)
 
 # News 
 * [05/2023] [**Talk**] Xun Jiao delivered invited talks at Peking U, HKUST (GZ), and CAS/ICT.
