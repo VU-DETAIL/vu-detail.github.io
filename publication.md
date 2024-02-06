@@ -1,7 +1,7 @@
 ---
 title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 ---
-## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) | [Artifact](./artifact) | [Teaching](./teaching)
+## [Home](./) | [People](./people) | [Research](./research) | [**Publication**](./publication) | [About](./about) | [Artifact](./artifact)
 
 ## Journal
 1. Dongning Ma, Tajana Šimunić Rosing, and Xun Jiao. "Testing and Enhancing Adversarial Robustness of Hyperdimensional Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (**TCAD**), 2023. [PDF](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/TCAD2023_HDTest_.pdf)
