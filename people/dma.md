@@ -18,7 +18,7 @@ Email: dma2@villanova.edu
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). 
 
 ### Research Focus
-AI for Science, Deep Learning, Bio-informatics, and Robust / Resilient AI.
+AI for Science, Deep Learning, Bio-informatics.
 
 ## Publications
 ### Journal
@@ -48,7 +48,7 @@ AI for Science, Deep Learning, Bio-informatics, and Robust / Resilient AI.
 13. Dongning Ma, Xun Jiao, An Input-aware Learning-based Error Model of Voltage-Scaled Functional Units. The 16th IEEE Workshop on Silicon Errors in Logic – System Effects (**SELSE**), Standford, CA, 2020. (**Best Paper Award**)
 14. Dongning Ma, Siyu Shen, Xun Jiao, Work-in-Progress: DeVos: A Learning-based Delay Model of Voltage-Scaled Circuits. in Proc. International Conference on Hardware/Software Codesign and System Synthesis (**CODES+ISSS**), New York, USA, 2019.
 15. Dongning Ma, Xun Jiao, Detecting and Bypassing Trivial Computations in Convolutional Neural Networks, IEEE/ACM International     Symposium on Nanoscale Architectures (**NANOARCH**), 2019
-16. Dongning Ma, Xun Jiao, Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
+16. Dongning Ma, Xun Jiao, Energy Efficient GPU Applications Through Computation Skip. in Proc. IEEE International Conference on Embedded Software and Systems (**ICESS**), Las Vegas, USA, 2019.
 
 ### Honors
 1. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Student Travel Award (NSF) and Volunteer
@@ -83,4 +83,4 @@ At Villanova University:
  - ECE 5450 - Microcontrollers and Applications (Fall 2019, Fall 2020, Fall 2021, Fall 2023)
  - ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
-Last updated: 2023.11.27
+Last updated: 2024.02.15
