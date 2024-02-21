@@ -18,7 +18,7 @@ Email: dma2@villanova.edu
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). 
 
 ### Research Focus
-AI for Science, Deep Learning, Bio-informatics.
+AI for Science, Deep Learning Robustness and Resilience, Efficient Machine Learning
 
 ## Publications
 ### Journal
@@ -30,6 +30,7 @@ AI for Science, Deep Learning, Bio-informatics.
 1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+1. Dongning Ma, Cong Hao, Xun Jiao, "Hyperdimensional Computing vs. Neural Networks: Comparing Architecture and Learning Process", The 25th International Symposium on Quality Electronic Design (**ISQED**), San Francisco, California, 2024
 1. Dongning Ma, Pengfei Zhao, Xun Jiao, "PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing", the Fourth Workshop on Neural Architecture Search, Third Lightweight NAS Challenge at 2023 Conference on Computer Vision and Pattern Recognition (**CVPRW-NAS**), Vancouver, Canada, 2023
 1. Sizhe Zhang, Dongning Ma, Song Bian, Lei Yang, Xun Jiao, "On Hyperdimensional Computing-Based Federated Learning: A Case Study". 2023 International Joint Conference on Neural Networks (**IJCNN**), Queensland, Australia, 2023
 1. Dongning Ma, Sizhe Zhang, Xun Jiao, "Robust Hyperdimensional Computing Against Cyber Attacks and Hardware Errors: A Survey". 28th Asia and South Pacific Design Automation Conference (**ASP-DAC**), Tokyo, Japan, 2023
@@ -83,4 +84,4 @@ At Villanova University:
  - ECE 5450 - Microcontrollers and Applications (Fall 2019, Fall 2020, Fall 2021, Fall 2023)
  - ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
-Last updated: 2024.02.15
+Last updated: 2024.02.21
