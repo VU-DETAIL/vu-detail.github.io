@@ -30,6 +30,7 @@ AI for Science, Deep Learning Robustness and Resilience, Efficient Machine Learn
 1. Dongning Ma, Xun Jiao, "WoMA: An Input-Based Learning Model to Predict Dynamic Workload of Embedded Applications", IEEE Embedded Systems Letters (**ESL**), 2019.
 
 ### Conference
+1. Dongning Ma, Fred Lin, Alban Desmaison, Joel Coburn, Daniel Moore, Sriram Sankar, Xun Jiao, "Dr. DNA: Combating Silent Data Corruptions in Deep Learning using Distribution of Neuron Activations", the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), San Diego, California, 2024. (conditionally accepted)
 1. Dongning Ma, Cong Hao, Xun Jiao, "Hyperdimensional Computing vs. Neural Networks: Comparing Architecture and Learning Process", The 25th International Symposium on Quality Electronic Design (**ISQED**), San Francisco, California, 2024
 1. Dongning Ma, Pengfei Zhao, Xun Jiao, "PerfHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing", the Fourth Workshop on Neural Architecture Search, Third Lightweight NAS Challenge at 2023 Conference on Computer Vision and Pattern Recognition (**CVPRW-NAS**), Vancouver, Canada, 2023
 1. Sizhe Zhang, Dongning Ma, Song Bian, Lei Yang, Xun Jiao, "On Hyperdimensional Computing-Based Federated Learning: A Case Study". 2023 International Joint Conference on Neural Networks (**IJCNN**), Queensland, Australia, 2023
