@@ -10,7 +10,7 @@ A "good" AI is not just about accuracy. It also needs to be robust/resilient aga
 [Hardware-level Analysis](http://www.ece.villanova.edu/~xjiao/paper/DT20.pdf) <br/>
 
 ## Hardware Reliability --> Approximate Computing
-As transistor becomes even smaller, hardware are more susceptible to errors/faults. How can we make reliable hardware? 
+As transistor becomes even smaller, hardware are more susceptible to errors/faults. How can we make reliable hardware? <br/>
 [Timing Error Prediction of Hardware](https://github.com/VU-DETAIL/vu-detail.github.io/blob/master/asset/DEVoT.pdf) <br/>
 [Approximate Computing Survey Part 1](https://arxiv.org/abs/2307.11124) <br/>
 [Approximate Computing Survey Part 2](https://arxiv.org/abs/2307.11128) <br/>
