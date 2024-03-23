@@ -5,7 +5,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Our overall research focuses on developing high-performant, energy-efficient, and robust-and-reliable AI/ML systems, using a cross-layer full-stack approach spanning hardware, software, and algorithm. 
 
 ## Robust/Resilient AI/ML Systems
-A "good" AI is not just about accuracy. It also needs to be robust/resilient against uncertainties, e.g., hardware faults/errors, adversarial input data, environmental variations, etc. How to develop resilient AI? How to balance the resilience vs. accuracy vs. efficiency? We can tackle this problem from hardware, algorithm, system, but often, we need to consider a cross-layer full-stack approach. 
+A "good" AI is not just about accuracy. It also needs to be robust/resilient against uncertainties, e.g., hardware faults/errors, adversarial input data, environmental variations, etc. Check this [survey](https://arxiv.org/pdf/2101.02559.pdf). 
 
 
 ## Approximate Computing 
