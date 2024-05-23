@@ -70,8 +70,9 @@ and Development in Information Retrieval (**SIGIR**), Washington D.C., 2024.
 ## Other Activities
 ### Services
 1. Reviewer for IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-2. Reviewer for ACM Transactions on Knowledge Discovery from Data (TKDD)
-3. Program Committee of The Euromicro Conference on Digital System Design (DSD) 2022 - Special Session on Design of Cyber-Physical Systems (DCPS)
+1. Reviewer for ACM Transactions on Knowledge Discovery from Data (TKDD)
+1. Reviewer for The Journal of Supercomputing
+1. Program Committee of The Euromicro Conference on Digital System Design (DSD) 2022 - Special Session on Design of Cyber-Physical Systems (DCPS)
 
 ### Professional Memberships
 IEEE Student Member, ACM Student Member, IEEE CIS Student Member, AAAI Member
@@ -87,4 +88,4 @@ At Villanova University:
  - ECE 5450 - Microcontrollers and Applications (Fall 2019, Fall 2020, Fall 2021, Fall 2023)
  - ECE 2431 - Embedded Systems I Lab (Spring 2019)
 
-Last updated: 2024.02.21
+Last updated: 2024.05.23
