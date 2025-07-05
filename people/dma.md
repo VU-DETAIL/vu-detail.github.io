@@ -14,7 +14,7 @@ Villanova University
 
 Email: dma2@villanova.edu 
 
-**UPDATE: I have graduated from Villanova University and this page is not longer maintained. Please visit my new website at [dongning-ma.github.io](https://dongning-ma.github.io).**
+**UPDATE: I have graduated from Villanova University and this page is no longer maintained. Please visit my new website at [dongning-ma.github.io](https://dongning-ma.github.io).**
 
 ## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). 
