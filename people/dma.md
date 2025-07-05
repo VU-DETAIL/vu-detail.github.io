@@ -6,13 +6,15 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 <img src="../asset/dma2.jfif" alt="Dongning Ma" width="280">
 
 # Dongning Ma
-Ph.D. Candidate (Since 2019 Spring) [[CV]](../asset/dma_cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=XlJuTdcAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/dongning-ma-73ab5b185/)
+Ph.D. Candidate [[CV]](../asset/dma_cv.pdf) [[Google Scholar]](https://scholar.google.com/citations?user=XlJuTdcAAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/dongning-ma-73ab5b185/)
 
 Department of Electrical and Computer Engineering
 
 Villanova University
 
 Email: dma2@villanova.edu 
+
+**UPDATE: I have graduated from Villanova University and this page is not longer maintained. Please visit my new website at [dongning-ma.github.io](https://dongning-ma.github.io).**
 
 ## About
 Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CpE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree in Automation from [School of Advanced Engineering](http://ae.ustb.edu.cn/) of [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn). 
