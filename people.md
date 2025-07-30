@@ -10,8 +10,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 Xun Jiao
 
 ## Ph.D. Students
-Dongning Ma
-
 Richard Wang
 
 Brian Dragun
@@ -41,6 +39,7 @@ Xingjian Wang ([Villanova Undergraduate Research Fellows (VURF)](https://www1.vi
 
 ## Graduate Students
 
+Dongning Ma (**DAC Young Fellow**)
 Mauro Sanchirico (**College of Engineering Outstanding Graduate Student Award**)
 
 ## Undergraduate Students
