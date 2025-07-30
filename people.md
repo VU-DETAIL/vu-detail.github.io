@@ -7,16 +7,14 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 
 # Current Members
 ## Faculty
-[Xun Jiao](./people/jiao)
+[Xun Jiao]
 
 ## Ph.D. Students
-[Dongning Ma](./people/dma)
+[Dongning Ma]
 
-[Richard (Ruixuan) Wang](./people/rwang)
+[Richard Wang]
 
-[Wengying (Wendy) Wen](https://vu-detail.github.io/people)
-
-[Brian Dragun](https://vu-detail.github.io/people)
+[Brian Dragun]
 
 ## Master Students
 Lauren Scalice
