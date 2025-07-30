@@ -40,6 +40,7 @@ Xingjian Wang ([Villanova Undergraduate Research Fellows (VURF)](https://www1.vi
 ## Graduate Students
 
 Dongning Ma (**DAC Young Fellow**)
+
 Mauro Sanchirico (**College of Engineering Outstanding Graduate Student Award**)
 
 ## Undergraduate Students
