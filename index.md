@@ -19,7 +19,6 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [06/2022] [**Grant**] Our project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
 * [06/2022] [**Grant**] Our project on "[Sustainable Green Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228035&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [05/2022] [**Service**] Xun Jiao serves as TPC members for [ICCAD 2022](https://iccad.com), [ASP-DAC 2022](https://www.aspdac.com/aspdac2023/), and [ICESS 2022](http://www.ieee-cybermatics.org/2022/icess/).
-* [02/2022] [**Award**] Xun Jiao receives [Junior Faculty Award from College of Engineering](https://www1.villanova.edu/villanova/engineering/newsevents/newsarchives/2022/faculty-research/career-development-award.html)!
 * [02/2022] [**Student**] Mauro Sanchirico receives College of Engineering **Outstanding Graduate Student Award** (1 annually). 
 * [02/2022] [**Award**] Our paper "Energy-Efficient Hyperdimensional Computing" at [DATE 2022](https://www.date-conference.com/programme#:~:text=ENERGY%2DEFFICIENT%20BRAIN%2DINSPIRED%20HYPERDIMENSIONAL%20COMPUTING%20USING%20VOLTAGE%20SCALING) is a **Best Paper Candidate**!
 * [12/2021] [**Media**] Xun Jiao was interviewed by [Digital Engineering Magazine](https://www.digitalengineering247.com/article/the-coming-of-age-of-ai-and-machine-learning-in-design/fea).  
