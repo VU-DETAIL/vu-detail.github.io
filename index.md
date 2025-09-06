@@ -13,7 +13,7 @@ title: Dependable, Efficient, and Intelligent Computing Lab (DETAIL)
 * [04/2023] [**Media**] Our research is featured in [Quanta Magazine](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/). 
 * [03/2023] [**Service**] Xun Jiao serves as Web Chair of [ESWEEK 2023](https://esweek.org).
 * [03/2023] [**Service**] Xun Jiao serves as TPC member of [ICCAD 2023](https://iccad.com).
-* [11/2022] [**Award**] Xun Jiao receives **"IEEE Young Engineer of the Year Award [[Photo]](./asset/IEEE-award.JPG)!"**
+* [11/2022] [**Award**] Xun Jiao receives "IEEE Young Engineer of the Year Award!"
 * [08/2022] [**Grant**] Our project on "[AI-based Diagnosis of Alzheimer’s](https://reporter.nih.gov/search/T7r_s80tVUWcSrCg0doxWA/project-details/10438005)" is funded by National Institute of Health! 
 * [08/2022] [**Grant**] Our project on "[Generalizable Approximate Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2202310&HistoricalAwards=false)" is funded by National Science Foundation! 
 * [06/2022] [**Grant**] Our project on "[Smart Green Environment Infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2152834&HistoricalAwards=false)" is funded by National Science Foundation!
